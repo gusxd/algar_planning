@@ -20,7 +20,7 @@ var dadosPlanning = [ {
   "INDICADORES" : "TICKET MEDIO",
   "REGIONAL" : "BCU",
   "GERENCIA" : "SUL",
-  "JUSTIFICATIVA" : "Vendas em quadrante vermelho (ocupação) | 38% 300Mb , ",
+  "JUSTIFICATIVA" : "Vendas em quadrante vermelho (ocupação) | Atual 38% 300Mb // Desafio 45% 300Mb, 31% 200Mb",
   "PROJEÇÃO" : "142"
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -28,7 +28,7 @@ var dadosPlanning = [ {
   "INDICADORES" : "CHURN",
   "REGIONAL" : "BCU",
   "GERENCIA" : "SUL",
-  "JUSTIFICATIVA" : "Cenário controlado (73% voluntário, 27% involuntário)",
+  "JUSTIFICATIVA" : "Cenário controlado (73% voluntário, 27% involuntário) CPF Débito em conta // 70% Novas vendas CNPJ",
   "PROJEÇÃO" : "1%"
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -76,15 +76,15 @@ var dadosPlanning = [ {
   "INDICADORES" : "VENDAS",
   "REGIONAL" : "BHE",
   "GERENCIA" : "SE/CTO",
-  "JUSTIFICATIVA" : "1 - Virada para Avançados (Esteira 25k)   2 - Repassar vendas perdidas (+ 3 k)   3 - Novos vendedores (+13 treinados) ",
-  "PROJEÇÃO" : "46,000"
+  "JUSTIFICATIVA" : "1 – Virada para Avançados (Esteira 25k)   2 - Repassar vendas perdidas (+ 3 k)  3 – Rentabilização KNET (SVA´s + 3k) 3 - Novos vendedores (+13 treinados)",
+  "PROJEÇÃO" : "49,562"
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
   "INDICADORES" : "FDV",
   "REGIONAL" : "BHE",
   "GERENCIA" : "SE/CTO",
-  "JUSTIFICATIVA" : "- Em credenciamento: Alô / QDP : + 13 - Crescimento vd: Farnese +1 / Knet +3 / MGD +2= 6 - Em descredenciamento: - 9",
+  "JUSTIFICATIVA" : "- Em credenciamento: Alô / QDP : + 13 - Crescimento vd: Farnese +1 / Knet +3 / MGD +2= 6",
   "PROJEÇÃO" : "47"
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -108,7 +108,7 @@ var dadosPlanning = [ {
   "REGIONAL" : "BHE",
   "GERENCIA" : "SE/CTO",
   "JUSTIFICATIVA" : "1) Vendedores especializados  2) Semanal Avançados 3) Novo parceiro especializado",
-  "PROJEÇÃO" : "52%"
+  "PROJEÇÃO" : "51%"
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
@@ -116,7 +116,7 @@ var dadosPlanning = [ {
   "REGIONAL" : "BHE",
   "GERENCIA" : "SE/CTO",
   "JUSTIFICATIVA" : "1) VD fala sobre a pesquisa  2) Rotina BKO agendamento solicitar a resposta  3) GC liga para base não respondido",
-  "PROJEÇÃO" : "40%"
+  "PROJEÇÃO" : "64%"
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
@@ -131,13 +131,12 @@ var dadosPlanning = [ {
   "INDICADORES" : "Md. Vd.",
   "REGIONAL" : "BHE",
   "GERENCIA" : "SE/CTO",
-  "JUSTIFICATIVA" : "Realizado + esteira AV34k= R$ 918,91 por VD 1) Descredenciamento improdutivos sem chance de recuperação 2) Desenvolvimento novos VD: acompanhamento GC em campo treinamentos com simulação de vendas semanal de avançados",
-  "PROJEÇÃO" : "978.72"
+  "JUSTIFICATIVA" : "Realizado + esteira AV34k= R$ 918,91 por VD 1) Desenvolvimento novos VD: acompanhamento GC em campo treinamentos com simulação de vendas semanal de avançados",
+  "PROJEÇÃO" : "1,053.00"
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
   "INDICADORES" : "APP LOGIN",
-  "REGIONAL" : "BHE",
   "GERENCIA" : "SE/CTO",
   "JUSTIFICATIVA" : "1) Direcionamento balde BH para novo parceiro 2) Inclusão do APP nos indicadores de remuneração do técnico  3) Mensagem de boas vindas com link do APP  replicar benchmarking VTA",
   "PROJEÇÃO" : "26%"
@@ -172,7 +171,7 @@ var dadosPlanning = [ {
   "REGIONAL" : "BSA",
   "GERENCIA" : "SE/CTO",
   "JUSTIFICATIVA" : "OK. Em acompanhamento",
-  "PROJEÇÃO" : "0.50%"
+  "PROJEÇÃO" : "0.98%"
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
@@ -355,7 +354,8 @@ var dadosPlanning = [ {
   "INDICADORES" : "APP LOGIN",
   "REGIONAL" : "FLA",
   "GERENCIA" : "NE N-CE",
-  "JUSTIFICATIVA" : "Insira a Justificativa"
+  "JUSTIFICATIVA" : "Real 10% -  Matinal com os técnicos e lançamento de campanha regional",
+  "PROJEÇÃO" : "40%"
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
@@ -387,7 +387,7 @@ var dadosPlanning = [ {
   "REGIONAL" : "GNA",
   "GERENCIA" : "SE/CTO",
   "JUSTIFICATIVA" : "Dentro da meta, com projeção de queda DEZ x JAN",
-  "PROJEÇÃO" : "0.45%"
+  "PROJEÇÃO" : "0.99%"
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
@@ -458,7 +458,7 @@ var dadosPlanning = [ {
   "INDICADORES" : "CHURN",
   "REGIONAL" : "PAE",
   "GERENCIA" : "SUL",
-  "JUSTIFICATIVA" : "Cenário controlado (77% voluntário, 23% involuntário)",
+  "JUSTIFICATIVA" : "Cenário controlado (77% voluntário, 23% involuntário) CPF em débito em conta// 50% novas vendas em CNPJ",
   "PROJEÇÃO" : "1%"
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -650,21 +650,23 @@ var dadosPlanning = [ {
   "INDICADORES" : "VENDAS",
   "REGIONAL" : "SDR",
   "GERENCIA" : "NE SUL",
-  "JUSTIFICATIVA" : "Insira a Justificativa"
+  "JUSTIFICATIVA" : "Impacto da 1quinz e gap FDV, + 9k além da projeção considerando ações nos dealers/TLV, exclusiva de AJU, incremento de remotos.",
+  "PROJEÇÃO" : "39K"
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
   "INDICADORES" : "FDV",
   "REGIONAL" : "SDR",
   "GERENCIA" : "NE SUL",
-  "JUSTIFICATIVA" : "FDV iniciando hoje (+ 5 Alpha AJU, + 15 Voice). GAP JAN/21 "
+  "JUSTIFICATIVA" : "FDV iniciando hoje (+ 5 Alpha AJU, + 15 Voice*).",
+  "PROJEÇÃO" : "46"
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
   "INDICADORES" : "TICKET MEDIO",
   "REGIONAL" : "SDR",
   "GERENCIA" : "NE SUL",
-  "JUSTIFICATIVA" : "1)95 BLs (Mix 63% 300Mb, 8% 200Mb, 29% 100Mb), 2)Impacto TM AJU com ação exclusiva 16 à 30/01 (Mix atual 77% 300Mb, 15% 100 Mb, 8% 200Mb)",
+  "JUSTIFICATIVA" : "1)132 BLs (Mix 63% 300Mb, 8% 200Mb, 29% 100Mb),                                                           2)Impacto TM AJU com ação exclusiva 16 à 30/01 (Mix atual 77% 300Mb, 15% 100 Mb, 8% 200Mb) ",
   "PROJEÇÃO" : "130"
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -680,7 +682,8 @@ var dadosPlanning = [ {
   "INDICADORES" : "AVANCADOS",
   "REGIONAL" : "SDR",
   "GERENCIA" : "NE SUL",
-  "JUSTIFICATIVA" : "Pipe 9.9k - Esteira 3,1k + Em negociação 6.7k"
+  "JUSTIFICATIVA" : "Pipe 9.9k - Esteira 3,1k (2.1 garantido) + Em negociação 6.7k (1.6K upgrade)",
+  "PROJEÇÃO" : "5K"
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
@@ -703,7 +706,8 @@ var dadosPlanning = [ {
   "INDICADORES" : "Md. Vd.",
   "REGIONAL" : "SDR",
   "GERENCIA" : "NE SUL",
-  "JUSTIFICATIVA" : "Impacto turnover Nov e Dez/20, hoje 63% da FDV tem menos de 30dias"
+  "JUSTIFICATIVA" : "Impacto turnover Nov e Dez/20, hoje 63% da FDV tem menos de 30dias. ",
+  "PROJEÇÃO" : "847"
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
@@ -790,8 +794,8 @@ var dadosPlanning = [ {
   "INDICADORES" : "VENDAS",
   "REGIONAL" : "VTA",
   "GERENCIA" : "SE/CTO",
-  "JUSTIFICATIVA" : "1 – Virada para Avançados (Esteira 4,6k)   2 - Repassar vendas perdidas (+ 1 k)   3 - Novos vendedores (+07) ",
-  "PROJEÇÃO" : "16,000"
+  "JUSTIFICATIVA" : "1 – Virada para Avançados (Esteira 5,6k) 2 - Repassar vendas perdidas (+ 1 k)   3 - Novos vendedores (+07) ",
+  "PROJEÇÃO" : "16,151"
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
@@ -859,7 +863,7 @@ var dadosPlanning = [ {
   "MES" : "JAN/21",
   "REGIONAL" : "BHE",
   "GERENCIA" : "SE/CTO",
-  "TICKET MEDIO" : 128,
+  "TICKET MEDIO" : 143,
   "AVANCADOS" : 0.18980106888361045,
   "VENDAS" : 12114.0,
   "ORC VENDAS" : 49562.35294117646,
@@ -874,7 +878,7 @@ var dadosPlanning = [ {
   "MES" : "JAN/21",
   "REGIONAL" : "GNA",
   "GERENCIA" : "SE/CTO",
-  "TICKET MEDIO" : 116,
+  "TICKET MEDIO" : 139,
   "AVANCADOS" : 0.039322301024428685,
   "VENDAS" : 12519.0,
   "ORC VENDAS" : 42240.0,
@@ -889,7 +893,7 @@ var dadosPlanning = [ {
   "MES" : "JAN/21",
   "REGIONAL" : "BSA",
   "GERENCIA" : "SE/CTO",
-  "TICKET MEDIO" : 110,
+  "TICKET MEDIO" : 127,
   "AVANCADOS" : 0.3234855267084452,
   "VENDAS" : 6422.0,
   "ORC VENDAS" : 22023.529411764706,
@@ -904,7 +908,7 @@ var dadosPlanning = [ {
   "MES" : "JAN/21",
   "REGIONAL" : "VTA",
   "GERENCIA" : "SE/CTO",
-  "TICKET MEDIO" : 131,
+  "TICKET MEDIO" : 133,
   "AVANCADOS" : 0.0,
   "VENDAS" : 4099.0,
   "ORC VENDAS" : 16150.58823529412,
@@ -919,7 +923,7 @@ var dadosPlanning = [ {
   "MES" : "JAN/21",
   "REGIONAL" : "PAE",
   "GERENCIA" : "SUL",
-  "TICKET MEDIO" : 124,
+  "TICKET MEDIO" : 139,
   "AVANCADOS" : 0.06140350877192982,
   "VENDAS" : 20354.0,
   "ORC VENDAS" : 70857.14285714286,
@@ -934,7 +938,7 @@ var dadosPlanning = [ {
   "MES" : "JAN/21",
   "REGIONAL" : "BCU",
   "GERENCIA" : "SUL",
-  "TICKET MEDIO" : 139,
+  "TICKET MEDIO" : 146,
   "AVANCADOS" : 0.0768484710178001,
   "VENDAS" : 17520.0,
   "ORC VENDAS" : 50605.882352941175,
@@ -949,7 +953,7 @@ var dadosPlanning = [ {
   "MES" : "JAN/21",
   "REGIONAL" : "RPO",
   "GERENCIA" : "SP INT",
-  "TICKET MEDIO" : 114,
+  "TICKET MEDIO" : 133,
   "AVANCADOS" : 0.07584369449378331,
   "VENDAS" : 14573.0,
   "ORC VENDAS" : 38002.5,
@@ -964,7 +968,7 @@ var dadosPlanning = [ {
   "MES" : "JAN/21",
   "REGIONAL" : "CPS",
   "GERENCIA" : "SP INT",
-  "TICKET MEDIO" : 112,
+  "TICKET MEDIO" : 136,
   "AVANCADOS" : 0.11476891298734831,
   "VENDAS" : 37881.0,
   "ORC VENDAS" : 93991.76470588233,
@@ -979,7 +983,7 @@ var dadosPlanning = [ {
   "MES" : "JAN/21",
   "REGIONAL" : "SPO",
   "GERENCIA" : "SP METRO",
-  "TICKET MEDIO" : 132,
+  "TICKET MEDIO" : 137,
   "AVANCADOS" : 0.0,
   "VENDAS" : 22702.0,
   "ORC VENDAS" : 93825.30120481929,
@@ -994,7 +998,7 @@ var dadosPlanning = [ {
   "MES" : "JAN/21",
   "REGIONAL" : "FLA",
   "GERENCIA" : "NE N-CE",
-  "TICKET MEDIO" : 110,
+  "TICKET MEDIO" : 127,
   "AVANCADOS" : 0.056590211069724894,
   "VENDAS" : 15303.0,
   "ORC VENDAS" : 51510.58823529412,
@@ -1009,7 +1013,7 @@ var dadosPlanning = [ {
   "MES" : "JAN/21",
   "REGIONAL" : "RCE",
   "GERENCIA" : "NE N-CE",
-  "TICKET MEDIO" : 118,
+  "TICKET MEDIO" : 136,
   "AVANCADOS" : 0.0,
   "VENDAS" : 16003.0,
   "ORC VENDAS" : 57930.82352941176,
@@ -1024,7 +1028,7 @@ var dadosPlanning = [ {
   "MES" : "JAN/21",
   "REGIONAL" : "SDR",
   "GERENCIA" : "NE SUL",
-  "TICKET MEDIO" : 110,
+  "TICKET MEDIO" : 129,
   "AVANCADOS" : 0.10263370258968528,
   "VENDAS" : 12893.0,
   "ORC VENDAS" : 62865.88235294118,
