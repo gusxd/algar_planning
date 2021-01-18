@@ -2,169 +2,64 @@ var dadosPlanning = [ {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
   "INDICADORES" : "VENDAS",
-  "REGIONAL" : "FLA",
-  "GERENCIA" : "NE N-CE",
+  "REGIONAL" : "BCU",
+  "GERENCIA" : "SUL",
   "JUSTIFICATIVA" : "Insira a Justificativa"
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
   "INDICADORES" : "FDV",
-  "REGIONAL" : "FLA",
-  "GERENCIA" : "NE N-CE",
+  "REGIONAL" : "BCU",
+  "GERENCIA" : "SUL",
   "JUSTIFICATIVA" : "Insira a Justificativa"
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
   "INDICADORES" : "TICKET MEDIO",
-  "REGIONAL" : "FLA",
-  "GERENCIA" : "NE N-CE",
+  "REGIONAL" : "BCU",
+  "GERENCIA" : "SUL",
   "JUSTIFICATIVA" : "Insira a Justificativa"
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
   "INDICADORES" : "CHURN",
-  "REGIONAL" : "FLA",
-  "GERENCIA" : "NE N-CE",
+  "REGIONAL" : "BCU",
+  "GERENCIA" : "SUL",
   "JUSTIFICATIVA" : "Insira a Justificativa"
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
   "INDICADORES" : "AVANCADOS",
-  "REGIONAL" : "FLA",
-  "GERENCIA" : "NE N-CE",
+  "REGIONAL" : "BCU",
+  "GERENCIA" : "SUL",
   "JUSTIFICATIVA" : "Insira a Justificativa"
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
   "INDICADORES" : "NPS",
-  "REGIONAL" : "FLA",
-  "GERENCIA" : "NE N-CE",
+  "REGIONAL" : "BCU",
+  "GERENCIA" : "SUL",
   "JUSTIFICATIVA" : "Insira a Justificativa"
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
   "INDICADORES" : "D+2",
-  "REGIONAL" : "FLA",
-  "GERENCIA" : "NE N-CE",
+  "REGIONAL" : "BCU",
+  "GERENCIA" : "SUL",
   "JUSTIFICATIVA" : "Insira a Justificativa"
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
   "INDICADORES" : "Md. Vd.",
-  "REGIONAL" : "FLA",
-  "GERENCIA" : "NE N-CE",
+  "REGIONAL" : "BCU",
+  "GERENCIA" : "SUL",
   "JUSTIFICATIVA" : "Insira a Justificativa"
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
-  "INDICADORES" : "VENDAS",
-  "REGIONAL" : "RCE",
-  "GERENCIA" : "NE N-CE",
-  "JUSTIFICATIVA" : "Insira a Justificativa"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "INDICADORES" : "FDV",
-  "REGIONAL" : "RCE",
-  "GERENCIA" : "NE N-CE",
-  "JUSTIFICATIVA" : "Insira a Justificativa"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "INDICADORES" : "TICKET MEDIO",
-  "REGIONAL" : "RCE",
-  "GERENCIA" : "NE N-CE",
-  "JUSTIFICATIVA" : "Insira a Justificativa"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "INDICADORES" : "CHURN",
-  "REGIONAL" : "RCE",
-  "GERENCIA" : "NE N-CE",
-  "JUSTIFICATIVA" : "Insira a Justificativa"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "INDICADORES" : "AVANCADOS",
-  "REGIONAL" : "RCE",
-  "GERENCIA" : "NE N-CE",
-  "JUSTIFICATIVA" : "Insira a Justificativa"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "INDICADORES" : "NPS",
-  "REGIONAL" : "RCE",
-  "GERENCIA" : "NE N-CE",
-  "JUSTIFICATIVA" : "Insira a Justificativa"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "INDICADORES" : "D+2",
-  "REGIONAL" : "RCE",
-  "GERENCIA" : "NE N-CE",
-  "JUSTIFICATIVA" : "Insira a Justificativa"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "INDICADORES" : "Md. Vd.",
-  "REGIONAL" : "RCE",
-  "GERENCIA" : "NE N-CE",
-  "JUSTIFICATIVA" : "Insira a Justificativa"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "INDICADORES" : "VENDAS",
-  "REGIONAL" : "SDR",
-  "GERENCIA" : "NE SUL",
-  "JUSTIFICATIVA" : "Insira a Justificativa"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "INDICADORES" : "FDV",
-  "REGIONAL" : "SDR",
-  "GERENCIA" : "NE SUL",
-  "JUSTIFICATIVA" : "Insira a Justificativa"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "INDICADORES" : "TICKET MEDIO",
-  "REGIONAL" : "SDR",
-  "GERENCIA" : "NE SUL",
-  "JUSTIFICATIVA" : "Insira a Justificativa"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "INDICADORES" : "CHURN",
-  "REGIONAL" : "SDR",
-  "GERENCIA" : "NE SUL",
-  "JUSTIFICATIVA" : "Insira a Justificativa"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "INDICADORES" : "AVANCADOS",
-  "REGIONAL" : "SDR",
-  "GERENCIA" : "NE SUL",
-  "JUSTIFICATIVA" : "Insira a Justificativa"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "INDICADORES" : "NPS",
-  "REGIONAL" : "SDR",
-  "GERENCIA" : "NE SUL",
-  "JUSTIFICATIVA" : "Insira a Justificativa"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "INDICADORES" : "D+2",
-  "REGIONAL" : "SDR",
-  "GERENCIA" : "NE SUL",
-  "JUSTIFICATIVA" : "Insira a Justificativa"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "INDICADORES" : "Md. Vd.",
-  "REGIONAL" : "SDR",
-  "GERENCIA" : "NE SUL",
+  "INDICADORES" : "APP LOGIN",
+  "REGIONAL" : "BCU",
+  "GERENCIA" : "SUL",
   "JUSTIFICATIVA" : "Insira a Justificativa"
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -225,10 +120,18 @@ var dadosPlanning = [ {
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
+  "INDICADORES" : "APP LOGIN",
+  "REGIONAL" : "BHE",
+  "GERENCIA" : "SE/CTO",
+  "JUSTIFICATIVA" : "Insira a Justificativa"
+}, {
+  "DATA" : "2021-01-01T00:00",
+  "MES" : "JAN/21",
   "INDICADORES" : "VENDAS",
   "REGIONAL" : "BSA",
   "GERENCIA" : "SE/CTO",
-  "JUSTIFICATIVA" : "Insira a Justificativa"
+  "JUSTIFICATIVA" : "Retração do mercado 1ª semana / estruturação novo parceiro",
+  "PROJEÇÃO" : "Mais 60 B.Ls (8,5k) + 3k avanç. + 5,6k outros massivos / cross"
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
@@ -242,7 +145,7 @@ var dadosPlanning = [ {
   "INDICADORES" : "TICKET MEDIO",
   "REGIONAL" : "BSA",
   "GERENCIA" : "SE/CTO",
-  "JUSTIFICATIVA" : "Insira a Justificativa"
+  "JUSTIFICATIVA" : "Vendedores novatos e migração FDV MGO"
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
@@ -281,113 +184,8 @@ var dadosPlanning = [ {
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
-  "INDICADORES" : "VENDAS",
-  "REGIONAL" : "GNA",
-  "GERENCIA" : "SE/CTO",
-  "JUSTIFICATIVA" : "Insira a Justificativa"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "INDICADORES" : "FDV",
-  "REGIONAL" : "GNA",
-  "GERENCIA" : "SE/CTO",
-  "JUSTIFICATIVA" : "Insira a Justificativa"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "INDICADORES" : "TICKET MEDIO",
-  "REGIONAL" : "GNA",
-  "GERENCIA" : "SE/CTO",
-  "JUSTIFICATIVA" : "Insira a Justificativa"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "INDICADORES" : "CHURN",
-  "REGIONAL" : "GNA",
-  "GERENCIA" : "SE/CTO",
-  "JUSTIFICATIVA" : "Insira a Justificativa"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "INDICADORES" : "AVANCADOS",
-  "REGIONAL" : "GNA",
-  "GERENCIA" : "SE/CTO",
-  "JUSTIFICATIVA" : "Insira a Justificativa"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "INDICADORES" : "NPS",
-  "REGIONAL" : "GNA",
-  "GERENCIA" : "SE/CTO",
-  "JUSTIFICATIVA" : "Insira a Justificativa"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "INDICADORES" : "D+2",
-  "REGIONAL" : "GNA",
-  "GERENCIA" : "SE/CTO",
-  "JUSTIFICATIVA" : "Insira a Justificativa"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "INDICADORES" : "Md. Vd.",
-  "REGIONAL" : "GNA",
-  "GERENCIA" : "SE/CTO",
-  "JUSTIFICATIVA" : "Insira a Justificativa"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "INDICADORES" : "VENDAS",
-  "REGIONAL" : "VTA",
-  "GERENCIA" : "SE/CTO",
-  "JUSTIFICATIVA" : "Insira a Justificativa"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "INDICADORES" : "FDV",
-  "REGIONAL" : "VTA",
-  "GERENCIA" : "SE/CTO",
-  "JUSTIFICATIVA" : "Insira a Justificativa"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "INDICADORES" : "TICKET MEDIO",
-  "REGIONAL" : "VTA",
-  "GERENCIA" : "SE/CTO",
-  "JUSTIFICATIVA" : "Insira a Justificativa"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "INDICADORES" : "CHURN",
-  "REGIONAL" : "VTA",
-  "GERENCIA" : "SE/CTO",
-  "JUSTIFICATIVA" : "Insira a Justificativa"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "INDICADORES" : "AVANCADOS",
-  "REGIONAL" : "VTA",
-  "GERENCIA" : "SE/CTO",
-  "JUSTIFICATIVA" : "Insira a Justificativa"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "INDICADORES" : "NPS",
-  "REGIONAL" : "VTA",
-  "GERENCIA" : "SE/CTO",
-  "JUSTIFICATIVA" : "Insira a Justificativa"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "INDICADORES" : "D+2",
-  "REGIONAL" : "VTA",
-  "GERENCIA" : "SE/CTO",
-  "JUSTIFICATIVA" : "Insira a Justificativa"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "INDICADORES" : "Md. Vd.",
-  "REGIONAL" : "VTA",
+  "INDICADORES" : "APP LOGIN",
+  "REGIONAL" : "BSA",
   "GERENCIA" : "SE/CTO",
   "JUSTIFICATIVA" : "Insira a Justificativa"
 }, {
@@ -449,170 +247,135 @@ var dadosPlanning = [ {
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
-  "INDICADORES" : "VENDAS",
-  "REGIONAL" : "RPO",
-  "GERENCIA" : "SP INT",
-  "JUSTIFICATIVA" : "Insira a Justificativa"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "INDICADORES" : "FDV",
-  "REGIONAL" : "RPO",
-  "GERENCIA" : "SP INT",
-  "JUSTIFICATIVA" : "Insira a Justificativa"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "INDICADORES" : "TICKET MEDIO",
-  "REGIONAL" : "RPO",
-  "GERENCIA" : "SP INT",
-  "JUSTIFICATIVA" : "Insira a Justificativa"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "INDICADORES" : "CHURN",
-  "REGIONAL" : "RPO",
-  "GERENCIA" : "SP INT",
-  "JUSTIFICATIVA" : "Insira a Justificativa"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "INDICADORES" : "AVANCADOS",
-  "REGIONAL" : "RPO",
-  "GERENCIA" : "SP INT",
-  "JUSTIFICATIVA" : "Insira a Justificativa"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "INDICADORES" : "NPS",
-  "REGIONAL" : "RPO",
-  "GERENCIA" : "SP INT",
-  "JUSTIFICATIVA" : "Insira a Justificativa"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "INDICADORES" : "D+2",
-  "REGIONAL" : "RPO",
-  "GERENCIA" : "SP INT",
-  "JUSTIFICATIVA" : "Insira a Justificativa"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "INDICADORES" : "Md. Vd.",
-  "REGIONAL" : "RPO",
+  "INDICADORES" : "APP LOGIN",
+  "REGIONAL" : "CPS",
   "GERENCIA" : "SP INT",
   "JUSTIFICATIVA" : "Insira a Justificativa"
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
   "INDICADORES" : "VENDAS",
-  "REGIONAL" : "SPO",
-  "GERENCIA" : "SP METRO",
+  "REGIONAL" : "FLA",
+  "GERENCIA" : "NE N-CE",
   "JUSTIFICATIVA" : "Insira a Justificativa"
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
   "INDICADORES" : "FDV",
-  "REGIONAL" : "SPO",
-  "GERENCIA" : "SP METRO",
+  "REGIONAL" : "FLA",
+  "GERENCIA" : "NE N-CE",
   "JUSTIFICATIVA" : "Insira a Justificativa"
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
   "INDICADORES" : "TICKET MEDIO",
-  "REGIONAL" : "SPO",
-  "GERENCIA" : "SP METRO",
+  "REGIONAL" : "FLA",
+  "GERENCIA" : "NE N-CE",
   "JUSTIFICATIVA" : "Insira a Justificativa"
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
   "INDICADORES" : "CHURN",
-  "REGIONAL" : "SPO",
-  "GERENCIA" : "SP METRO",
+  "REGIONAL" : "FLA",
+  "GERENCIA" : "NE N-CE",
   "JUSTIFICATIVA" : "Insira a Justificativa"
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
   "INDICADORES" : "AVANCADOS",
-  "REGIONAL" : "SPO",
-  "GERENCIA" : "SP METRO",
+  "REGIONAL" : "FLA",
+  "GERENCIA" : "NE N-CE",
   "JUSTIFICATIVA" : "Insira a Justificativa"
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
   "INDICADORES" : "NPS",
-  "REGIONAL" : "SPO",
-  "GERENCIA" : "SP METRO",
+  "REGIONAL" : "FLA",
+  "GERENCIA" : "NE N-CE",
   "JUSTIFICATIVA" : "Insira a Justificativa"
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
   "INDICADORES" : "D+2",
-  "REGIONAL" : "SPO",
-  "GERENCIA" : "SP METRO",
+  "REGIONAL" : "FLA",
+  "GERENCIA" : "NE N-CE",
   "JUSTIFICATIVA" : "Insira a Justificativa"
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
   "INDICADORES" : "Md. Vd.",
-  "REGIONAL" : "SPO",
-  "GERENCIA" : "SP METRO",
+  "REGIONAL" : "FLA",
+  "GERENCIA" : "NE N-CE",
+  "JUSTIFICATIVA" : "Insira a Justificativa"
+}, {
+  "DATA" : "2021-01-01T00:00",
+  "MES" : "JAN/21",
+  "INDICADORES" : "APP LOGIN",
+  "REGIONAL" : "FLA",
+  "GERENCIA" : "NE N-CE",
   "JUSTIFICATIVA" : "Insira a Justificativa"
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
   "INDICADORES" : "VENDAS",
-  "REGIONAL" : "BCU",
-  "GERENCIA" : "SUL",
+  "REGIONAL" : "GNA",
+  "GERENCIA" : "SE/CTO",
   "JUSTIFICATIVA" : "Insira a Justificativa"
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
   "INDICADORES" : "FDV",
-  "REGIONAL" : "BCU",
-  "GERENCIA" : "SUL",
+  "REGIONAL" : "GNA",
+  "GERENCIA" : "SE/CTO",
   "JUSTIFICATIVA" : "Insira a Justificativa"
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
   "INDICADORES" : "TICKET MEDIO",
-  "REGIONAL" : "BCU",
-  "GERENCIA" : "SUL",
+  "REGIONAL" : "GNA",
+  "GERENCIA" : "SE/CTO",
   "JUSTIFICATIVA" : "Insira a Justificativa"
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
   "INDICADORES" : "CHURN",
-  "REGIONAL" : "BCU",
-  "GERENCIA" : "SUL",
+  "REGIONAL" : "GNA",
+  "GERENCIA" : "SE/CTO",
   "JUSTIFICATIVA" : "Insira a Justificativa"
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
   "INDICADORES" : "AVANCADOS",
-  "REGIONAL" : "BCU",
-  "GERENCIA" : "SUL",
+  "REGIONAL" : "GNA",
+  "GERENCIA" : "SE/CTO",
   "JUSTIFICATIVA" : "Insira a Justificativa"
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
   "INDICADORES" : "NPS",
-  "REGIONAL" : "BCU",
-  "GERENCIA" : "SUL",
+  "REGIONAL" : "GNA",
+  "GERENCIA" : "SE/CTO",
   "JUSTIFICATIVA" : "Insira a Justificativa"
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
   "INDICADORES" : "D+2",
-  "REGIONAL" : "BCU",
-  "GERENCIA" : "SUL",
+  "REGIONAL" : "GNA",
+  "GERENCIA" : "SE/CTO",
   "JUSTIFICATIVA" : "Insira a Justificativa"
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
   "INDICADORES" : "Md. Vd.",
-  "REGIONAL" : "BCU",
-  "GERENCIA" : "SUL",
+  "REGIONAL" : "GNA",
+  "GERENCIA" : "SE/CTO",
+  "JUSTIFICATIVA" : "Insira a Justificativa"
+}, {
+  "DATA" : "2021-01-01T00:00",
+  "MES" : "JAN/21",
+  "INDICADORES" : "APP LOGIN",
+  "REGIONAL" : "GNA",
+  "GERENCIA" : "SE/CTO",
   "JUSTIFICATIVA" : "Insira a Justificativa"
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -669,150 +432,515 @@ var dadosPlanning = [ {
   "INDICADORES" : "Md. Vd.",
   "REGIONAL" : "PAE",
   "GERENCIA" : "SUL",
+  "JUSTIFICATIVA" : "Insira a Justificativa"
+}, {
+  "DATA" : "2021-01-01T00:00",
+  "MES" : "JAN/21",
+  "INDICADORES" : "APP LOGIN",
+  "REGIONAL" : "PAE",
+  "GERENCIA" : "SUL",
+  "JUSTIFICATIVA" : "Insira a Justificativa"
+}, {
+  "DATA" : "2021-01-01T00:00",
+  "MES" : "JAN/21",
+  "INDICADORES" : "VENDAS",
+  "REGIONAL" : "RCE",
+  "GERENCIA" : "NE N-CE"
+}, {
+  "DATA" : "2021-01-01T00:00",
+  "MES" : "JAN/21",
+  "INDICADORES" : "FDV",
+  "REGIONAL" : "RCE",
+  "GERENCIA" : "NE N-CE"
+}, {
+  "DATA" : "2021-01-01T00:00",
+  "MES" : "JAN/21",
+  "INDICADORES" : "TICKET MEDIO",
+  "REGIONAL" : "RCE",
+  "GERENCIA" : "NE N-CE"
+}, {
+  "DATA" : "2021-01-01T00:00",
+  "MES" : "JAN/21",
+  "INDICADORES" : "CHURN",
+  "REGIONAL" : "RCE",
+  "GERENCIA" : "NE N-CE",
+  "JUSTIFICATIVA" : "Controlado"
+}, {
+  "DATA" : "2021-01-01T00:00",
+  "MES" : "JAN/21",
+  "INDICADORES" : "AVANCADOS",
+  "REGIONAL" : "RCE",
+  "GERENCIA" : "NE N-CE",
+  "JUSTIFICATIVA" : "Pipe 10K,  1K Esteira. GAP 4k."
+}, {
+  "DATA" : "2021-01-01T00:00",
+  "MES" : "JAN/21",
+  "INDICADORES" : "NPS",
+  "REGIONAL" : "RCE",
+  "GERENCIA" : "NE N-CE",
+  "JUSTIFICATIVA" : "Controlado"
+}, {
+  "DATA" : "2021-01-01T00:00",
+  "MES" : "JAN/21",
+  "INDICADORES" : "D+2",
+  "REGIONAL" : "RCE",
+  "GERENCIA" : "NE N-CE",
+  "JUSTIFICATIVA" : "Controlado"
+}, {
+  "DATA" : "2021-01-01T00:00",
+  "MES" : "JAN/21",
+  "INDICADORES" : "Md. Vd.",
+  "REGIONAL" : "RCE",
+  "GERENCIA" : "NE N-CE"
+}, {
+  "DATA" : "2021-01-01T00:00",
+  "MES" : "JAN/21",
+  "INDICADORES" : "APP LOGIN",
+  "REGIONAL" : "RCE",
+  "GERENCIA" : "NE N-CE",
+  "JUSTIFICATIVA" : "Controlado"
+}, {
+  "DATA" : "2021-01-01T00:00",
+  "MES" : "JAN/21",
+  "INDICADORES" : "VENDAS",
+  "REGIONAL" : "RPO",
+  "GERENCIA" : "SP INT",
+  "JUSTIFICATIVA" : "Insira a Justificativa"
+}, {
+  "DATA" : "2021-01-01T00:00",
+  "MES" : "JAN/21",
+  "INDICADORES" : "FDV",
+  "REGIONAL" : "RPO",
+  "GERENCIA" : "SP INT",
+  "JUSTIFICATIVA" : "Insira a Justificativa"
+}, {
+  "DATA" : "2021-01-01T00:00",
+  "MES" : "JAN/21",
+  "INDICADORES" : "TICKET MEDIO",
+  "REGIONAL" : "RPO",
+  "GERENCIA" : "SP INT",
+  "JUSTIFICATIVA" : "Insira a Justificativa"
+}, {
+  "DATA" : "2021-01-01T00:00",
+  "MES" : "JAN/21",
+  "INDICADORES" : "CHURN",
+  "REGIONAL" : "RPO",
+  "GERENCIA" : "SP INT",
+  "JUSTIFICATIVA" : "Insira a Justificativa"
+}, {
+  "DATA" : "2021-01-01T00:00",
+  "MES" : "JAN/21",
+  "INDICADORES" : "AVANCADOS",
+  "REGIONAL" : "RPO",
+  "GERENCIA" : "SP INT",
+  "JUSTIFICATIVA" : "Insira a Justificativa"
+}, {
+  "DATA" : "2021-01-01T00:00",
+  "MES" : "JAN/21",
+  "INDICADORES" : "NPS",
+  "REGIONAL" : "RPO",
+  "GERENCIA" : "SP INT",
+  "JUSTIFICATIVA" : "Insira a Justificativa"
+}, {
+  "DATA" : "2021-01-01T00:00",
+  "MES" : "JAN/21",
+  "INDICADORES" : "D+2",
+  "REGIONAL" : "RPO",
+  "GERENCIA" : "SP INT",
+  "JUSTIFICATIVA" : "Insira a Justificativa"
+}, {
+  "DATA" : "2021-01-01T00:00",
+  "MES" : "JAN/21",
+  "INDICADORES" : "Md. Vd.",
+  "REGIONAL" : "RPO",
+  "GERENCIA" : "SP INT",
+  "JUSTIFICATIVA" : "Insira a Justificativa"
+}, {
+  "DATA" : "2021-01-01T00:00",
+  "MES" : "JAN/21",
+  "INDICADORES" : "APP LOGIN",
+  "REGIONAL" : "RPO",
+  "GERENCIA" : "SP INT",
+  "JUSTIFICATIVA" : "Insira a Justificativa"
+}, {
+  "DATA" : "2021-01-01T00:00",
+  "MES" : "JAN/21",
+  "INDICADORES" : "VENDAS",
+  "REGIONAL" : "SDR",
+  "GERENCIA" : "NE SUL",
+  "JUSTIFICATIVA" : "Insira a Justificativa"
+}, {
+  "DATA" : "2021-01-01T00:00",
+  "MES" : "JAN/21",
+  "INDICADORES" : "FDV",
+  "REGIONAL" : "SDR",
+  "GERENCIA" : "NE SUL",
+  "JUSTIFICATIVA" : "Insira a Justificativa"
+}, {
+  "DATA" : "2021-01-01T00:00",
+  "MES" : "JAN/21",
+  "INDICADORES" : "TICKET MEDIO",
+  "REGIONAL" : "SDR",
+  "GERENCIA" : "NE SUL",
+  "JUSTIFICATIVA" : "Insira a Justificativa"
+}, {
+  "DATA" : "2021-01-01T00:00",
+  "MES" : "JAN/21",
+  "INDICADORES" : "CHURN",
+  "REGIONAL" : "SDR",
+  "GERENCIA" : "NE SUL",
+  "JUSTIFICATIVA" : "Insira a Justificativa"
+}, {
+  "DATA" : "2021-01-01T00:00",
+  "MES" : "JAN/21",
+  "INDICADORES" : "AVANCADOS",
+  "REGIONAL" : "SDR",
+  "GERENCIA" : "NE SUL",
+  "JUSTIFICATIVA" : "Insira a Justificativa"
+}, {
+  "DATA" : "2021-01-01T00:00",
+  "MES" : "JAN/21",
+  "INDICADORES" : "NPS",
+  "REGIONAL" : "SDR",
+  "GERENCIA" : "NE SUL",
+  "JUSTIFICATIVA" : "Insira a Justificativa"
+}, {
+  "DATA" : "2021-01-01T00:00",
+  "MES" : "JAN/21",
+  "INDICADORES" : "D+2",
+  "REGIONAL" : "SDR",
+  "GERENCIA" : "NE SUL",
+  "JUSTIFICATIVA" : "Insira a Justificativa"
+}, {
+  "DATA" : "2021-01-01T00:00",
+  "MES" : "JAN/21",
+  "INDICADORES" : "Md. Vd.",
+  "REGIONAL" : "SDR",
+  "GERENCIA" : "NE SUL",
+  "JUSTIFICATIVA" : "Insira a Justificativa"
+}, {
+  "DATA" : "2021-01-01T00:00",
+  "MES" : "JAN/21",
+  "INDICADORES" : "APP LOGIN",
+  "REGIONAL" : "SDR",
+  "GERENCIA" : "NE SUL",
+  "JUSTIFICATIVA" : "Insira a Justificativa"
+}, {
+  "DATA" : "2021-01-01T00:00",
+  "MES" : "JAN/21",
+  "INDICADORES" : "VENDAS",
+  "REGIONAL" : "SPO",
+  "GERENCIA" : "SP METRO"
+}, {
+  "DATA" : "2021-01-01T00:00",
+  "MES" : "JAN/21",
+  "INDICADORES" : "FDV",
+  "REGIONAL" : "SPO",
+  "GERENCIA" : "SP METRO",
+  "JUSTIFICATIVA" : "Insira a Justificativa"
+}, {
+  "DATA" : "2021-01-01T00:00",
+  "MES" : "JAN/21",
+  "INDICADORES" : "TICKET MEDIO",
+  "REGIONAL" : "SPO",
+  "GERENCIA" : "SP METRO",
+  "JUSTIFICATIVA" : "Insira a Justificativa"
+}, {
+  "DATA" : "2021-01-01T00:00",
+  "MES" : "JAN/21",
+  "INDICADORES" : "CHURN",
+  "REGIONAL" : "SPO",
+  "GERENCIA" : "SP METRO",
+  "JUSTIFICATIVA" : "Insira a Justificativa"
+}, {
+  "DATA" : "2021-01-01T00:00",
+  "MES" : "JAN/21",
+  "INDICADORES" : "AVANCADOS",
+  "REGIONAL" : "SPO",
+  "GERENCIA" : "SP METRO",
+  "JUSTIFICATIVA" : "Insira a Justificativa"
+}, {
+  "DATA" : "2021-01-01T00:00",
+  "MES" : "JAN/21",
+  "INDICADORES" : "NPS",
+  "REGIONAL" : "SPO",
+  "GERENCIA" : "SP METRO",
+  "JUSTIFICATIVA" : "Insira a Justificativa"
+}, {
+  "DATA" : "2021-01-01T00:00",
+  "MES" : "JAN/21",
+  "INDICADORES" : "D+2",
+  "REGIONAL" : "SPO",
+  "GERENCIA" : "SP METRO",
+  "JUSTIFICATIVA" : "Insira a Justificativa"
+}, {
+  "DATA" : "2021-01-01T00:00",
+  "MES" : "JAN/21",
+  "INDICADORES" : "Md. Vd.",
+  "REGIONAL" : "SPO",
+  "GERENCIA" : "SP METRO",
+  "JUSTIFICATIVA" : "Insira a Justificativa"
+}, {
+  "DATA" : "2021-01-01T00:00",
+  "MES" : "JAN/21",
+  "INDICADORES" : "APP LOGIN",
+  "REGIONAL" : "SPO",
+  "GERENCIA" : "SP METRO",
+  "JUSTIFICATIVA" : "Insira a Justificativa"
+}, {
+  "DATA" : "2021-01-01T00:00",
+  "MES" : "JAN/21",
+  "INDICADORES" : "VENDAS",
+  "REGIONAL" : "VTA",
+  "GERENCIA" : "SE/CTO",
+  "JUSTIFICATIVA" : "Insira a Justificativa"
+}, {
+  "DATA" : "2021-01-01T00:00",
+  "MES" : "JAN/21",
+  "INDICADORES" : "FDV",
+  "REGIONAL" : "VTA",
+  "GERENCIA" : "SE/CTO",
+  "JUSTIFICATIVA" : "Insira a Justificativa"
+}, {
+  "DATA" : "2021-01-01T00:00",
+  "MES" : "JAN/21",
+  "INDICADORES" : "TICKET MEDIO",
+  "REGIONAL" : "VTA",
+  "GERENCIA" : "SE/CTO",
+  "JUSTIFICATIVA" : "Insira a Justificativa"
+}, {
+  "DATA" : "2021-01-01T00:00",
+  "MES" : "JAN/21",
+  "INDICADORES" : "CHURN",
+  "REGIONAL" : "VTA",
+  "GERENCIA" : "SE/CTO",
+  "JUSTIFICATIVA" : "Insira a Justificativa"
+}, {
+  "DATA" : "2021-01-01T00:00",
+  "MES" : "JAN/21",
+  "INDICADORES" : "AVANCADOS",
+  "REGIONAL" : "VTA",
+  "GERENCIA" : "SE/CTO",
+  "JUSTIFICATIVA" : "Insira a Justificativa"
+}, {
+  "DATA" : "2021-01-01T00:00",
+  "MES" : "JAN/21",
+  "INDICADORES" : "NPS",
+  "REGIONAL" : "VTA",
+  "GERENCIA" : "SE/CTO",
+  "JUSTIFICATIVA" : "Insira a Justificativa"
+}, {
+  "DATA" : "2021-01-01T00:00",
+  "MES" : "JAN/21",
+  "INDICADORES" : "D+2",
+  "REGIONAL" : "VTA",
+  "GERENCIA" : "SE/CTO",
+  "JUSTIFICATIVA" : "Insira a Justificativa"
+}, {
+  "DATA" : "2021-01-01T00:00",
+  "MES" : "JAN/21",
+  "INDICADORES" : "Md. Vd.",
+  "REGIONAL" : "VTA",
+  "GERENCIA" : "SE/CTO",
+  "JUSTIFICATIVA" : "Insira a Justificativa"
+}, {
+  "DATA" : "2021-01-01T00:00",
+  "MES" : "JAN/21",
+  "INDICADORES" : "APP LOGIN",
+  "REGIONAL" : "VTA",
+  "GERENCIA" : "SE/CTO",
   "JUSTIFICATIVA" : "Insira a Justificativa"
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
   "REGIONAL" : "BHE",
   "GERENCIA" : "SE/CTO",
-  "TICKET MEDIO" : 193,
-  "AVANCADOS" : 0.1636849442379182,
-  "VENDAS" : 8608,
+  "TICKET MEDIO" : 128,
+  "AVANCADOS" : 0.18980106888361045,
+  "VENDAS" : 13472,
   "ORC VENDAS" : 49562.35294117646,
-  "BLFIXO" : 1.9,
-  "DIGITAL" : 3416,
+  "BLFIXO" : 1.7,
+  "OCUPACAO" : 10279,
+  "TOTAL PORTAS" : 29637,
+  "DIGITAL" : 5027,
+  "APP LOGIN" : 0.0,
+  "ORC APP" : 0.4,
   "CAT DIGITAL" : "SEM DIGITAL"
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
   "REGIONAL" : "GNA",
   "GERENCIA" : "SE/CTO",
-  "TICKET MEDIO" : 141,
-  "AVANCADOS" : 0.052770727580372254,
-  "VENDAS" : 9456,
+  "TICKET MEDIO" : 116,
+  "AVANCADOS" : 0.039322301024428685,
+  "VENDAS" : 12690,
   "ORC VENDAS" : 42240.0,
-  "BLFIXO" : 1.1,
-  "DIGITAL" : 2251,
+  "BLFIXO" : 1.0,
+  "OCUPACAO" : 5081,
+  "TOTAL PORTAS" : 9959,
+  "DIGITAL" : 2649,
+  "APP LOGIN" : 0.14285714285714285,
+  "ORC APP" : 0.4,
   "CAT DIGITAL" : "SEM DIGITAL"
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
   "REGIONAL" : "BSA",
   "GERENCIA" : "SE/CTO",
-  "TICKET MEDIO" : 212,
-  "AVANCADOS" : 0.2656855151045701,
-  "VENDAS" : 3873,
+  "TICKET MEDIO" : 110,
+  "AVANCADOS" : 0.3234855267084452,
+  "VENDAS" : 6702,
   "ORC VENDAS" : 22023.529411764706,
-  "BLFIXO" : 1.6,
-  "DIGITAL" : 359,
+  "BLFIXO" : 1.1,
+  "OCUPACAO" : 1325,
+  "TOTAL PORTAS" : 4571,
+  "DIGITAL" : 389,
+  "APP LOGIN" : 0.2857142857142857,
+  "ORC APP" : 0.4,
   "CAT DIGITAL" : "SEM DIGITAL"
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
   "REGIONAL" : "VTA",
   "GERENCIA" : "SE/CTO",
-  "TICKET MEDIO" : 155,
+  "TICKET MEDIO" : 131,
   "AVANCADOS" : 0.0,
-  "VENDAS" : 2741,
+  "VENDAS" : 4099,
   "ORC VENDAS" : 16150.58823529412,
   "BLFIXO" : 1.5,
-  "DIGITAL" : 1993,
+  "OCUPACAO" : 2961,
+  "TOTAL PORTAS" : 6153,
+  "DIGITAL" : 2622,
+  "APP LOGIN" : 0.5,
+  "ORC APP" : 0.4,
   "CAT DIGITAL" : "SEM DIGITAL"
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
   "REGIONAL" : "PAE",
   "GERENCIA" : "SUL",
-  "TICKET MEDIO" : 167,
-  "AVANCADOS" : 0.06259481564540598,
-  "VENDAS" : 15161,
+  "TICKET MEDIO" : 124,
+  "AVANCADOS" : 0.06140350877192982,
+  "VENDAS" : 20748,
   "ORC VENDAS" : 70857.14285714286,
-  "BLFIXO" : 1.1,
-  "DIGITAL" : 1758,
+  "BLFIXO" : 1.0,
+  "OCUPACAO" : 7749,
+  "TOTAL PORTAS" : 15679,
+  "DIGITAL" : 2594,
+  "APP LOGIN" : 0.42105263157894735,
+  "ORC APP" : 0.4,
   "CAT DIGITAL" : "SEM DIGITAL"
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
   "REGIONAL" : "BCU",
   "GERENCIA" : "SUL",
-  "TICKET MEDIO" : 206,
-  "AVANCADOS" : 0.10493105865856509,
-  "VENDAS" : 12837,
+  "TICKET MEDIO" : 139,
+  "AVANCADOS" : 0.0768484710178001,
+  "VENDAS" : 17528,
   "ORC VENDAS" : 50605.882352941175,
-  "BLFIXO" : 1.3,
-  "DIGITAL" : 2313,
+  "BLFIXO" : 1.4,
+  "OCUPACAO" : 10926,
+  "TOTAL PORTAS" : 15218,
+  "DIGITAL" : 2986,
+  "APP LOGIN" : 0.0,
+  "ORC APP" : 0.4,
   "CAT DIGITAL" : "SEM DIGITAL"
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
   "REGIONAL" : "RPO",
   "GERENCIA" : "SP INT",
-  "TICKET MEDIO" : 148,
-  "AVANCADOS" : 0.03058916101111439,
-  "VENDAS" : 10167,
+  "TICKET MEDIO" : 114,
+  "AVANCADOS" : 0.07584369449378331,
+  "VENDAS" : 16890,
   "ORC VENDAS" : 38002.5,
-  "BLFIXO" : 1.2,
-  "DIGITAL" : 2077,
+  "BLFIXO" : 1.1,
+  "OCUPACAO" : 9549,
+  "TOTAL PORTAS" : 17979,
+  "DIGITAL" : 2886,
+  "APP LOGIN" : 0.14285714285714285,
+  "ORC APP" : 0.4,
   "CAT DIGITAL" : "SEM DIGITAL"
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
   "REGIONAL" : "CPS",
   "GERENCIA" : "SP INT",
-  "TICKET MEDIO" : 149,
-  "AVANCADOS" : 0.086707921687837,
-  "VENDAS" : 27633,
+  "TICKET MEDIO" : 112,
+  "AVANCADOS" : 0.11476891298734831,
+  "VENDAS" : 38730,
   "ORC VENDAS" : 93991.76470588233,
   "BLFIXO" : 1.2,
-  "DIGITAL" : 2372,
+  "OCUPACAO" : 9622,
+  "TOTAL PORTAS" : 31187,
+  "DIGITAL" : 3888,
+  "APP LOGIN" : 0.125,
+  "ORC APP" : 0.4,
   "CAT DIGITAL" : "SEM DIGITAL"
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
   "REGIONAL" : "SPO",
   "GERENCIA" : "SP METRO",
-  "TICKET MEDIO" : 145,
+  "TICKET MEDIO" : 117,
   "AVANCADOS" : 0.0,
-  "VENDAS" : 16675,
+  "VENDAS" : 22850,
   "ORC VENDAS" : 93825.30120481929,
-  "BLFIXO" : 1.1,
-  "DIGITAL" : 7177,
+  "BLFIXO" : 1.2,
+  "OCUPACAO" : 7574,
+  "TOTAL PORTAS" : 30553,
+  "DIGITAL" : 8207,
+  "APP LOGIN" : 0.5,
+  "ORC APP" : 0.4,
   "CAT DIGITAL" : "SEM DIGITAL"
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
   "REGIONAL" : "FLA",
   "GERENCIA" : "NE N-CE",
-  "TICKET MEDIO" : 138,
-  "AVANCADOS" : 0.08292636215646845,
-  "VENDAS" : 10443,
+  "TICKET MEDIO" : 110,
+  "AVANCADOS" : 0.056590211069724894,
+  "VENDAS" : 15303,
   "ORC VENDAS" : 51510.58823529412,
   "BLFIXO" : 0.9,
-  "DIGITAL" : 1396,
+  "OCUPACAO" : 5768,
+  "TOTAL PORTAS" : 12098,
+  "DIGITAL" : 2152,
+  "APP LOGIN" : 0.0,
+  "ORC APP" : 0.4,
   "CAT DIGITAL" : "SEM DIGITAL"
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
   "REGIONAL" : "RCE",
   "GERENCIA" : "NE N-CE",
-  "TICKET MEDIO" : 150,
+  "TICKET MEDIO" : 118,
   "AVANCADOS" : 0.0,
-  "VENDAS" : 12878,
+  "VENDAS" : 16671,
   "ORC VENDAS" : 57930.82352941176,
   "BLFIXO" : 1.3,
-  "DIGITAL" : 1686,
+  "OCUPACAO" : 6546,
+  "TOTAL PORTAS" : 14776,
+  "DIGITAL" : 2369,
+  "APP LOGIN" : 0.8,
+  "ORC APP" : 0.4,
   "CAT DIGITAL" : "SEM DIGITAL"
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
   "REGIONAL" : "SDR",
   "GERENCIA" : "NE SUL",
-  "TICKET MEDIO" : 154,
-  "AVANCADOS" : 0.12934541420118342,
-  "VENDAS" : 10816,
+  "TICKET MEDIO" : 110,
+  "AVANCADOS" : 0.10263370258968528,
+  "VENDAS" : 13631,
   "ORC VENDAS" : 62865.88235294118,
   "BLFIXO" : 1.1,
-  "DIGITAL" : 1197,
+  "OCUPACAO" : 2977,
+  "TOTAL PORTAS" : 9074,
+  "DIGITAL" : 1634,
+  "APP LOGIN" : 0.08333333333333333,
+  "ORC APP" : 0.4,
   "CAT DIGITAL" : "SEM DIGITAL"
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -3887,852 +4015,6 @@ var dadosPlanning = [ {
   "ORC CHURN" : 0.02032235086189999,
   "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21,
-  "CAT DIGITAL" : "SEM DIGITAL"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "REGIONAL" : "RCE",
-  "GERENCIA" : "NE N-CE",
-  "LOCALIDADE" : "ABREU E LIMA",
-  "OCUPACAO" : 193,
-  "TOTAL PORTAS" : 440,
-  "CAT DIGITAL" : "SEM DIGITAL"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "REGIONAL" : "GNA",
-  "GERENCIA" : "SE/CTO",
-  "LOCALIDADE" : "ANAPOLIS",
-  "OCUPACAO" : 1179,
-  "TOTAL PORTAS" : 2640,
-  "CAT DIGITAL" : "SEM DIGITAL"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "REGIONAL" : "GNA",
-  "GERENCIA" : "SE/CTO",
-  "LOCALIDADE" : "APARECIDA DE GOIANIA",
-  "OCUPACAO" : 8,
-  "TOTAL PORTAS" : 8,
-  "CAT DIGITAL" : "SEM DIGITAL"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "REGIONAL" : "SDR",
-  "GERENCIA" : "NE SUL",
-  "LOCALIDADE" : "ARACAJU",
-  "OCUPACAO" : 1049,
-  "TOTAL PORTAS" : 2720,
-  "CAT DIGITAL" : "SEM DIGITAL"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "REGIONAL" : "RPO",
-  "GERENCIA" : "SP INT",
-  "LOCALIDADE" : "ARARAQUARA",
-  "OCUPACAO" : 1005,
-  "TOTAL PORTAS" : 2112,
-  "CAT DIGITAL" : "SEM DIGITAL"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "REGIONAL" : "CPS",
-  "GERENCIA" : "SP INT",
-  "LOCALIDADE" : "ARARAS",
-  "OCUPACAO" : 102,
-  "TOTAL PORTAS" : 832,
-  "CAT DIGITAL" : "SEM DIGITAL"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "REGIONAL" : "BCU",
-  "GERENCIA" : "SUL",
-  "LOCALIDADE" : "BALNEARIO CAMBORIU",
-  "OCUPACAO" : 2374,
-  "TOTAL PORTAS" : 2536,
-  "CAT DIGITAL" : "SEM DIGITAL"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "REGIONAL" : "RPO",
-  "GERENCIA" : "SP INT",
-  "LOCALIDADE" : "BARRETOS",
-  "OCUPACAO" : 499,
-  "TOTAL PORTAS" : 928,
-  "CAT DIGITAL" : "SEM DIGITAL"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "REGIONAL" : "SPO",
-  "GERENCIA" : "SP METRO",
-  "LOCALIDADE" : "BARUERI",
-  "OCUPACAO" : 653,
-  "TOTAL PORTAS" : 1640,
-  "CAT DIGITAL" : "SEM DIGITAL"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "REGIONAL" : "BHE",
-  "GERENCIA" : "SE/CTO",
-  "LOCALIDADE" : "BELO HORIZONTE",
-  "OCUPACAO" : 4093,
-  "TOTAL PORTAS" : 8048,
-  "CAT DIGITAL" : "SEM DIGITAL"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "REGIONAL" : "PAE",
-  "GERENCIA" : "SUL",
-  "LOCALIDADE" : "BENTO GONCALVES",
-  "OCUPACAO" : 161,
-  "TOTAL PORTAS" : 672,
-  "CAT DIGITAL" : "SEM DIGITAL"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "REGIONAL" : "BHE",
-  "GERENCIA" : "SE/CTO",
-  "LOCALIDADE" : "BETIM",
-  "OCUPACAO" : 140,
-  "TOTAL PORTAS" : 496,
-  "CAT DIGITAL" : "SEM DIGITAL"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "REGIONAL" : "BCU",
-  "GERENCIA" : "SUL",
-  "LOCALIDADE" : "BLUMENAU",
-  "OCUPACAO" : 523,
-  "TOTAL PORTAS" : 1152,
-  "CAT DIGITAL" : "SEM DIGITAL"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "REGIONAL" : "BSA",
-  "GERENCIA" : "SE/CTO",
-  "LOCALIDADE" : "BRASILIA",
-  "OCUPACAO" : 1253,
-  "TOTAL PORTAS" : 4566,
-  "CAT DIGITAL" : "SEM DIGITAL"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "REGIONAL" : "BCU",
-  "GERENCIA" : "SUL",
-  "LOCALIDADE" : "BRUSQUE",
-  "OCUPACAO" : 436,
-  "TOTAL PORTAS" : 704,
-  "CAT DIGITAL" : "SEM DIGITAL"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "REGIONAL" : "RCE",
-  "GERENCIA" : "NE N-CE",
-  "LOCALIDADE" : "CABO DE SANTO AGOSTINHO",
-  "OCUPACAO" : 60,
-  "TOTAL PORTAS" : 224,
-  "CAT DIGITAL" : "SEM DIGITAL"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "REGIONAL" : "RCE",
-  "GERENCIA" : "NE N-CE",
-  "LOCALIDADE" : "CAMARAGIBE",
-  "OCUPACAO" : 103,
-  "TOTAL PORTAS" : 160,
-  "CAT DIGITAL" : "SEM DIGITAL"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "REGIONAL" : "CPS",
-  "GERENCIA" : "SP INT",
-  "LOCALIDADE" : "CAMPINAS",
-  "OCUPACAO" : 1265,
-  "TOTAL PORTAS" : 6656,
-  "CAT DIGITAL" : "SEM DIGITAL"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "REGIONAL" : "PAE",
-  "GERENCIA" : "SUL",
-  "LOCALIDADE" : "CANOAS",
-  "OCUPACAO" : 402,
-  "TOTAL PORTAS" : 712,
-  "CAT DIGITAL" : "SEM DIGITAL"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "REGIONAL" : "VTA",
-  "GERENCIA" : "SE/CTO",
-  "LOCALIDADE" : "CARIACICA",
-  "OCUPACAO" : 548,
-  "TOTAL PORTAS" : 1152,
-  "CAT DIGITAL" : "SEM DIGITAL"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "REGIONAL" : "RCE",
-  "GERENCIA" : "NE N-CE",
-  "LOCALIDADE" : "CARPINA",
-  "OCUPACAO" : 3,
-  "TOTAL PORTAS" : 8,
-  "CAT DIGITAL" : "SEM DIGITAL"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "REGIONAL" : "RCE",
-  "GERENCIA" : "NE N-CE",
-  "LOCALIDADE" : "CARUARU",
-  "OCUPACAO" : 12,
-  "TOTAL PORTAS" : 32,
-  "CAT DIGITAL" : "SEM DIGITAL"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "REGIONAL" : "FLA",
-  "GERENCIA" : "NE N-CE",
-  "LOCALIDADE" : "CAUCAIA",
-  "OCUPACAO" : 567,
-  "TOTAL PORTAS" : 784,
-  "CAT DIGITAL" : "SEM DIGITAL"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "REGIONAL" : "PAE",
-  "GERENCIA" : "SUL",
-  "LOCALIDADE" : "CAXIAS DO SUL",
-  "OCUPACAO" : 1368,
-  "TOTAL PORTAS" : 2856,
-  "CAT DIGITAL" : "SEM DIGITAL"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "REGIONAL" : "BHE",
-  "GERENCIA" : "SE/CTO",
-  "LOCALIDADE" : "CONTAGEM",
-  "OCUPACAO" : 485,
-  "TOTAL PORTAS" : 951,
-  "CAT DIGITAL" : "SEM DIGITAL"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "REGIONAL" : "SPO",
-  "GERENCIA" : "SP METRO",
-  "LOCALIDADE" : "CUBATAO",
-  "OCUPACAO" : 176,
-  "TOTAL PORTAS" : 224,
-  "CAT DIGITAL" : "SEM DIGITAL"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "REGIONAL" : "PAE",
-  "GERENCIA" : "SUL",
-  "LOCALIDADE" : "ESTEIO",
-  "OCUPACAO" : 314,
-  "TOTAL PORTAS" : 512,
-  "CAT DIGITAL" : "SEM DIGITAL"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "REGIONAL" : "FLA",
-  "GERENCIA" : "NE N-CE",
-  "LOCALIDADE" : "EUSEBIO",
-  "OCUPACAO" : 21,
-  "TOTAL PORTAS" : 124,
-  "CAT DIGITAL" : "SEM DIGITAL"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "REGIONAL" : "PAE",
-  "GERENCIA" : "SUL",
-  "LOCALIDADE" : "FARROUPILHA",
-  "OCUPACAO" : 256,
-  "TOTAL PORTAS" : 576,
-  "CAT DIGITAL" : "SEM DIGITAL"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "REGIONAL" : "SDR",
-  "GERENCIA" : "NE SUL",
-  "LOCALIDADE" : "FEIRA DE SANTANA",
-  "OCUPACAO" : 592,
-  "TOTAL PORTAS" : 3120,
-  "CAT DIGITAL" : "SEM DIGITAL"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "REGIONAL" : "BCU",
-  "GERENCIA" : "SUL",
-  "LOCALIDADE" : "FLORIANOPOLIS",
-  "OCUPACAO" : 1084,
-  "TOTAL PORTAS" : 1736,
-  "CAT DIGITAL" : "SEM DIGITAL"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "REGIONAL" : "FLA",
-  "GERENCIA" : "NE N-CE",
-  "LOCALIDADE" : "FORTALEZA",
-  "OCUPACAO" : 2594,
-  "TOTAL PORTAS" : 5664,
-  "CAT DIGITAL" : "SEM DIGITAL"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "REGIONAL" : "RCE",
-  "GERENCIA" : "NE N-CE",
-  "LOCALIDADE" : "GARANHUNS",
-  "OCUPACAO" : 3,
-  "TOTAL PORTAS" : 16,
-  "CAT DIGITAL" : "SEM DIGITAL"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "REGIONAL" : "GNA",
-  "GERENCIA" : "SE/CTO",
-  "LOCALIDADE" : "GOIANIA",
-  "OCUPACAO" : 3724,
-  "TOTAL PORTAS" : 7264,
-  "CAT DIGITAL" : "SEM DIGITAL"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "REGIONAL" : "PAE",
-  "GERENCIA" : "SUL",
-  "LOCALIDADE" : "GRAVATAI",
-  "OCUPACAO" : 570,
-  "TOTAL PORTAS" : 720,
-  "CAT DIGITAL" : "SEM DIGITAL"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "REGIONAL" : "SPO",
-  "GERENCIA" : "SP METRO",
-  "LOCALIDADE" : "GUARULHOS",
-  "OCUPACAO" : 1800,
-  "TOTAL PORTAS" : 5372,
-  "CAT DIGITAL" : "SEM DIGITAL"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "REGIONAL" : "CPS",
-  "GERENCIA" : "SP INT",
-  "LOCALIDADE" : "HORTOLANDIA",
-  "OCUPACAO" : 453,
-  "TOTAL PORTAS" : 1216,
-  "CAT DIGITAL" : "SEM DIGITAL"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "REGIONAL" : "CPS",
-  "GERENCIA" : "SP INT",
-  "LOCALIDADE" : "INDAIATUBA",
-  "OCUPACAO" : 183,
-  "TOTAL PORTAS" : 1728,
-  "CAT DIGITAL" : "SEM DIGITAL"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "REGIONAL" : "RCE",
-  "GERENCIA" : "NE N-CE",
-  "LOCALIDADE" : "IPOJUCA",
-  "OCUPACAO" : 16,
-  "TOTAL PORTAS" : 24,
-  "CAT DIGITAL" : "SEM DIGITAL"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "REGIONAL" : "BCU",
-  "GERENCIA" : "SUL",
-  "LOCALIDADE" : "ITAJAI",
-  "OCUPACAO" : 1517,
-  "TOTAL PORTAS" : 1696,
-  "CAT DIGITAL" : "SEM DIGITAL"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "REGIONAL" : "BCU",
-  "GERENCIA" : "SUL",
-  "LOCALIDADE" : "ITAPEMA",
-  "OCUPACAO" : 413,
-  "TOTAL PORTAS" : 432,
-  "CAT DIGITAL" : "SEM DIGITAL"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "REGIONAL" : "CPS",
-  "GERENCIA" : "SP INT",
-  "LOCALIDADE" : "ITU",
-  "OCUPACAO" : 368,
-  "TOTAL PORTAS" : 1008,
-  "CAT DIGITAL" : "SEM DIGITAL"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "REGIONAL" : "RCE",
-  "GERENCIA" : "NE N-CE",
-  "LOCALIDADE" : "JABOATAO DOS GUARARAPES",
-  "OCUPACAO" : 453,
-  "TOTAL PORTAS" : 1064,
-  "CAT DIGITAL" : "SEM DIGITAL"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "REGIONAL" : "RPO",
-  "GERENCIA" : "SP INT",
-  "LOCALIDADE" : "JABOTICABAL",
-  "OCUPACAO" : 110,
-  "TOTAL PORTAS" : 576,
-  "CAT DIGITAL" : "SEM DIGITAL"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "REGIONAL" : "SPO",
-  "GERENCIA" : "SP METRO",
-  "LOCALIDADE" : "JACAREI",
-  "OCUPACAO" : 514,
-  "TOTAL PORTAS" : 2472,
-  "CAT DIGITAL" : "SEM DIGITAL"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "REGIONAL" : "CPS",
-  "GERENCIA" : "SP INT",
-  "LOCALIDADE" : "JAGUARIUNA",
-  "OCUPACAO" : 44,
-  "TOTAL PORTAS" : 464,
-  "CAT DIGITAL" : "SEM DIGITAL"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "REGIONAL" : "BCU",
-  "GERENCIA" : "SUL",
-  "LOCALIDADE" : "JARAGUA DO SUL",
-  "OCUPACAO" : 392,
-  "TOTAL PORTAS" : 720,
-  "CAT DIGITAL" : "SEM DIGITAL"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "REGIONAL" : "RPO",
-  "GERENCIA" : "SP INT",
-  "LOCALIDADE" : "JAU",
-  "OCUPACAO" : 93,
-  "TOTAL PORTAS" : 1184,
-  "CAT DIGITAL" : "SEM DIGITAL"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "REGIONAL" : "RCE",
-  "GERENCIA" : "NE N-CE",
-  "LOCALIDADE" : "JOAO PESSOA",
-  "OCUPACAO" : 1224,
-  "TOTAL PORTAS" : 2328,
-  "CAT DIGITAL" : "SEM DIGITAL"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "REGIONAL" : "BCU",
-  "GERENCIA" : "SUL",
-  "LOCALIDADE" : "JOINVILLE",
-  "OCUPACAO" : 941,
-  "TOTAL PORTAS" : 1568,
-  "CAT DIGITAL" : "SEM DIGITAL"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "REGIONAL" : "BHE",
-  "GERENCIA" : "SE/CTO",
-  "LOCALIDADE" : "JUIZ DE FORA",
-  "OCUPACAO" : 1850,
-  "TOTAL PORTAS" : 4096,
-  "CAT DIGITAL" : "SEM DIGITAL"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "REGIONAL" : "CPS",
-  "GERENCIA" : "SP INT",
-  "LOCALIDADE" : "JUNDIAI",
-  "OCUPACAO" : 1404,
-  "TOTAL PORTAS" : 3720,
-  "CAT DIGITAL" : "SEM DIGITAL"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "REGIONAL" : "BCU",
-  "GERENCIA" : "SUL",
-  "LOCALIDADE" : "LAGES",
-  "OCUPACAO" : 330,
-  "TOTAL PORTAS" : 648,
-  "CAT DIGITAL" : "SEM DIGITAL"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "REGIONAL" : "SDR",
-  "GERENCIA" : "NE SUL",
-  "LOCALIDADE" : "LAURO DE FREITAS",
-  "OCUPACAO" : 390,
-  "TOTAL PORTAS" : 1321,
-  "CAT DIGITAL" : "SEM DIGITAL"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "REGIONAL" : "CPS",
-  "GERENCIA" : "SP INT",
-  "LOCALIDADE" : "LIMEIRA",
-  "OCUPACAO" : 253,
-  "TOTAL PORTAS" : 1632,
-  "CAT DIGITAL" : "SEM DIGITAL"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "REGIONAL" : "RCE",
-  "GERENCIA" : "NE N-CE",
-  "LOCALIDADE" : "MACEIO",
-  "OCUPACAO" : 1509,
-  "TOTAL PORTAS" : 3480,
-  "CAT DIGITAL" : "SEM DIGITAL"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "REGIONAL" : "FLA",
-  "GERENCIA" : "NE N-CE",
-  "LOCALIDADE" : "MARACANAU",
-  "OCUPACAO" : 531,
-  "TOTAL PORTAS" : 1089,
-  "CAT DIGITAL" : "SEM DIGITAL"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "REGIONAL" : "RPO",
-  "GERENCIA" : "SP INT",
-  "LOCALIDADE" : "MATAO",
-  "OCUPACAO" : 144,
-  "TOTAL PORTAS" : 248,
-  "CAT DIGITAL" : "SEM DIGITAL"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "REGIONAL" : "SPO",
-  "GERENCIA" : "SP METRO",
-  "LOCALIDADE" : "MOGI DAS CRUZES",
-  "OCUPACAO" : 605,
-  "TOTAL PORTAS" : 3088,
-  "CAT DIGITAL" : "SEM DIGITAL"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "REGIONAL" : "FLA",
-  "GERENCIA" : "NE N-CE",
-  "LOCALIDADE" : "NATAL",
-  "OCUPACAO" : 1613,
-  "TOTAL PORTAS" : 3784,
-  "CAT DIGITAL" : "SEM DIGITAL"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "REGIONAL" : "BHE",
-  "GERENCIA" : "SE/CTO",
-  "LOCALIDADE" : "NOVA LIMA",
-  "OCUPACAO" : 1850,
-  "TOTAL PORTAS" : 8763,
-  "CAT DIGITAL" : "SEM DIGITAL"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "REGIONAL" : "PAE",
-  "GERENCIA" : "SUL",
-  "LOCALIDADE" : "NOVO HAMBURGO",
-  "OCUPACAO" : 522,
-  "TOTAL PORTAS" : 1216,
-  "CAT DIGITAL" : "SEM DIGITAL"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "REGIONAL" : "RCE",
-  "GERENCIA" : "NE N-CE",
-  "LOCALIDADE" : "OLINDA",
-  "OCUPACAO" : 160,
-  "TOTAL PORTAS" : 504,
-  "CAT DIGITAL" : "SEM DIGITAL"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "REGIONAL" : "SPO",
-  "GERENCIA" : "SP METRO",
-  "LOCALIDADE" : "OSASCO",
-  "OCUPACAO" : 920,
-  "TOTAL PORTAS" : 2848,
-  "CAT DIGITAL" : "SEM DIGITAL"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "REGIONAL" : "FLA",
-  "GERENCIA" : "NE N-CE",
-  "LOCALIDADE" : "PARNAMIRIM",
-  "OCUPACAO" : 351,
-  "TOTAL PORTAS" : 544,
-  "CAT DIGITAL" : "SEM DIGITAL"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "REGIONAL" : "BHE",
-  "GERENCIA" : "SE/CTO",
-  "LOCALIDADE" : "PASSOS",
-  "OCUPACAO" : 484,
-  "TOTAL PORTAS" : 1552,
-  "CAT DIGITAL" : "SEM DIGITAL"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "REGIONAL" : "RPO",
-  "GERENCIA" : "SP INT",
-  "LOCALIDADE" : "PIONEIROS",
-  "OCUPACAO" : 81,
-  "TOTAL PORTAS" : 128,
-  "CAT DIGITAL" : "SEM DIGITAL"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "REGIONAL" : "CPS",
-  "GERENCIA" : "SP INT",
-  "LOCALIDADE" : "PIRACICABA",
-  "OCUPACAO" : 1073,
-  "TOTAL PORTAS" : 2744,
-  "CAT DIGITAL" : "SEM DIGITAL"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "REGIONAL" : "PAE",
-  "GERENCIA" : "SUL",
-  "LOCALIDADE" : "PORTO ALEGRE",
-  "OCUPACAO" : 3621,
-  "TOTAL PORTAS" : 7268,
-  "CAT DIGITAL" : "SEM DIGITAL"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "REGIONAL" : "BHE",
-  "GERENCIA" : "SE/CTO",
-  "LOCALIDADE" : "POUSO ALEGRE",
-  "OCUPACAO" : 196,
-  "TOTAL PORTAS" : 1560,
-  "CAT DIGITAL" : "SEM DIGITAL"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "REGIONAL" : "RCE",
-  "GERENCIA" : "NE N-CE",
-  "LOCALIDADE" : "RECIFE",
-  "OCUPACAO" : 2460,
-  "TOTAL PORTAS" : 6120,
-  "CAT DIGITAL" : "SEM DIGITAL"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "REGIONAL" : "RPO",
-  "GERENCIA" : "SP INT",
-  "LOCALIDADE" : "RIBEIRAO PRETO",
-  "OCUPACAO" : 3759,
-  "TOTAL PORTAS" : 5554,
-  "CAT DIGITAL" : "SEM DIGITAL"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "REGIONAL" : "CPS",
-  "GERENCIA" : "SP INT",
-  "LOCALIDADE" : "RIO CLARO",
-  "OCUPACAO" : 159,
-  "TOTAL PORTAS" : 1120,
-  "CAT DIGITAL" : "SEM DIGITAL"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "REGIONAL" : "CPS",
-  "GERENCIA" : "SP INT",
-  "LOCALIDADE" : "SALTO",
-  "OCUPACAO" : 194,
-  "TOTAL PORTAS" : 480,
-  "CAT DIGITAL" : "SEM DIGITAL"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "REGIONAL" : "SDR",
-  "GERENCIA" : "NE SUL",
-  "LOCALIDADE" : "SALVADOR",
-  "OCUPACAO" : 747,
-  "TOTAL PORTAS" : 1905,
-  "CAT DIGITAL" : "SEM DIGITAL"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "REGIONAL" : "CPS",
-  "GERENCIA" : "SP INT",
-  "LOCALIDADE" : "SANTA BARBARA D OESTE",
-  "OCUPACAO" : 1144,
-  "TOTAL PORTAS" : 3392,
-  "CAT DIGITAL" : "SEM DIGITAL"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "REGIONAL" : "BHE",
-  "GERENCIA" : "SE/CTO",
-  "LOCALIDADE" : "SANTA LUZIA",
-  "OCUPACAO" : 1000,
-  "TOTAL PORTAS" : 1976,
-  "CAT DIGITAL" : "SEM DIGITAL"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "REGIONAL" : "SPO",
-  "GERENCIA" : "SP METRO",
-  "LOCALIDADE" : "SANTOS",
-  "OCUPACAO" : 709,
-  "TOTAL PORTAS" : 4688,
-  "CAT DIGITAL" : "SEM DIGITAL"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "REGIONAL" : "BCU",
-  "GERENCIA" : "SUL",
-  "LOCALIDADE" : "SAO BENTO DO SUL",
-  "OCUPACAO" : 253,
-  "TOTAL PORTAS" : 560,
-  "CAT DIGITAL" : "SEM DIGITAL"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "REGIONAL" : "RPO",
-  "GERENCIA" : "SP INT",
-  "LOCALIDADE" : "SAO CARLOS",
-  "OCUPACAO" : 585,
-  "TOTAL PORTAS" : 1776,
-  "CAT DIGITAL" : "SEM DIGITAL"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "REGIONAL" : "BCU",
-  "GERENCIA" : "SUL",
-  "LOCALIDADE" : "SAO JOSE",
-  "OCUPACAO" : 2058,
-  "TOTAL PORTAS" : 2600,
-  "CAT DIGITAL" : "SEM DIGITAL"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "REGIONAL" : "RPO",
-  "GERENCIA" : "SP INT",
-  "LOCALIDADE" : "SAO JOSE DO RIO PRETO",
-  "OCUPACAO" : 3076,
-  "TOTAL PORTAS" : 4720,
-  "CAT DIGITAL" : "SEM DIGITAL"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "REGIONAL" : "SPO",
-  "GERENCIA" : "SP METRO",
-  "LOCALIDADE" : "SAO JOSE DOS CAMPOS",
-  "OCUPACAO" : 402,
-  "TOTAL PORTAS" : 2344,
-  "CAT DIGITAL" : "SEM DIGITAL"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "REGIONAL" : "PAE",
-  "GERENCIA" : "SUL",
-  "LOCALIDADE" : "SAO LEOPOLDO",
-  "OCUPACAO" : 329,
-  "TOTAL PORTAS" : 1120,
-  "CAT DIGITAL" : "SEM DIGITAL"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "REGIONAL" : "SPO",
-  "GERENCIA" : "SP METRO",
-  "LOCALIDADE" : "SAO PAULO",
-  "OCUPACAO" : 1509,
-  "TOTAL PORTAS" : 7790,
-  "CAT DIGITAL" : "SEM DIGITAL"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "REGIONAL" : "VTA",
-  "GERENCIA" : "SE/CTO",
-  "LOCALIDADE" : "SERRA",
-  "OCUPACAO" : 594,
-  "TOTAL PORTAS" : 1232,
-  "CAT DIGITAL" : "SEM DIGITAL"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "REGIONAL" : "RPO",
-  "GERENCIA" : "SP INT",
-  "LOCALIDADE" : "SERTAOZINHO",
-  "OCUPACAO" : 95,
-  "TOTAL PORTAS" : 680,
-  "CAT DIGITAL" : "SEM DIGITAL"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "REGIONAL" : "CPS",
-  "GERENCIA" : "SP INT",
-  "LOCALIDADE" : "SOROCABA",
-  "OCUPACAO" : 2245,
-  "TOTAL PORTAS" : 4608,
-  "CAT DIGITAL" : "SEM DIGITAL"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "REGIONAL" : "BCU",
-  "GERENCIA" : "SUL",
-  "LOCALIDADE" : "TUBARAO",
-  "OCUPACAO" : 449,
-  "TOTAL PORTAS" : 736,
-  "CAT DIGITAL" : "SEM DIGITAL"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "REGIONAL" : "CPS",
-  "GERENCIA" : "SP INT",
-  "LOCALIDADE" : "VALINHOS",
-  "OCUPACAO" : 274,
-  "TOTAL PORTAS" : 1552,
-  "CAT DIGITAL" : "SEM DIGITAL"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "REGIONAL" : "BHE",
-  "GERENCIA" : "SE/CTO",
-  "LOCALIDADE" : "VARGINHA",
-  "OCUPACAO" : 104,
-  "TOTAL PORTAS" : 1776,
-  "CAT DIGITAL" : "SEM DIGITAL"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "REGIONAL" : "VTA",
-  "GERENCIA" : "SE/CTO",
-  "LOCALIDADE" : "VILA VELHA",
-  "OCUPACAO" : 715,
-  "TOTAL PORTAS" : 1520,
-  "CAT DIGITAL" : "SEM DIGITAL"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "REGIONAL" : "VTA",
-  "GERENCIA" : "SE/CTO",
-  "LOCALIDADE" : "VITORIA",
-  "OCUPACAO" : 1045,
-  "TOTAL PORTAS" : 2240,
-  "CAT DIGITAL" : "SEM DIGITAL"
-}, {
-  "DATA" : "2021-01-01T00:00",
-  "MES" : "JAN/21",
-  "REGIONAL" : "RCE",
-  "GERENCIA" : "NE N-CE",
-  "LOCALIDADE" : "VITORIA DE SANTO ANTAO",
-  "OCUPACAO" : 8,
-  "TOTAL PORTAS" : 8,
   "CAT DIGITAL" : "SEM DIGITAL"
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -8321,21 +7603,21 @@ var dadosPlanning = [ {
   "MES" : "JAN/21",
   "REGIONAL" : "BHE",
   "GERENCIA" : "SE/CTO",
-  "NPS" : 0.1875,
+  "NPS" : 0.64,
   "CAT DIGITAL" : "SEM DIGITAL"
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
   "REGIONAL" : "GNA",
   "GERENCIA" : "SE/CTO",
-  "NPS" : 0.2,
+  "NPS" : 0.56,
   "CAT DIGITAL" : "SEM DIGITAL"
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
   "REGIONAL" : "BSA",
   "GERENCIA" : "SE/CTO",
-  "NPS" : 0.6666666666666666,
+  "NPS" : 0.75,
   "CAT DIGITAL" : "SEM DIGITAL"
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -8349,42 +7631,42 @@ var dadosPlanning = [ {
   "MES" : "JAN/21",
   "REGIONAL" : "PAE",
   "GERENCIA" : "SUL",
-  "NPS" : 0.5438596491228069,
+  "NPS" : 0.68,
   "CAT DIGITAL" : "SEM DIGITAL"
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
   "REGIONAL" : "BCU",
   "GERENCIA" : "SUL",
-  "NPS" : 0.45714285714285713,
+  "NPS" : 0.58,
   "CAT DIGITAL" : "SEM DIGITAL"
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
   "REGIONAL" : "RPO",
   "GERENCIA" : "SP INT",
-  "NPS" : 0.6551724137931034,
+  "NPS" : 0.75,
   "CAT DIGITAL" : "SEM DIGITAL"
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
   "REGIONAL" : "CPS",
   "GERENCIA" : "SP INT",
-  "NPS" : 0.2682926829268293,
+  "NPS" : 0.33,
   "CAT DIGITAL" : "SEM DIGITAL"
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
   "REGIONAL" : "SPO",
   "GERENCIA" : "SP METRO",
-  "NPS" : 0.5454545454545454,
+  "NPS" : 0.67,
   "CAT DIGITAL" : "SEM DIGITAL"
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
   "REGIONAL" : "FLA",
   "GERENCIA" : "NE N-CE",
-  "NPS" : 0.16666666666666669,
+  "NPS" : 0.8,
   "CAT DIGITAL" : "SEM DIGITAL"
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -8398,7 +7680,7 @@ var dadosPlanning = [ {
   "MES" : "JAN/21",
   "REGIONAL" : "SDR",
   "GERENCIA" : "NE SUL",
-  "NPS" : 0.0,
+  "NPS" : 0.33,
   "CAT DIGITAL" : "SEM DIGITAL"
 }, {
   "DATA" : "2021-01-01T00:00",
