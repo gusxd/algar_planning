@@ -1,4 +1,4 @@
-[ {
+var dadosPlanning = [ {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
   "INDICADORES" : "VENDAS",
@@ -76,7 +76,7 @@
   "INDICADORES" : "VENDAS",
   "REGIONAL" : "BHE",
   "GERENCIA" : "SE/CTO",
-  "JUSTIFICATIVA" : "1 – Virada para Avançados (Esteira 25k)  \n2 - Repassar vendas perdidas (+ 3 k) \n3 – Rentabilização KNET (SVA´s + 3k)\n3 - Novos vendedores (+13 treinados)",
+  "JUSTIFICATIVA" : "1 – Virada para Avançados (Esteira 25k)   2 - Repassar vendas perdidas (+ 3 k)  3 – Rentabilização KNET (SVA´s + 3k) 3 - Novos vendedores (+13 treinados)",
   "PROJEÇÃO" : "49,562"
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -84,7 +84,7 @@
   "INDICADORES" : "FDV",
   "REGIONAL" : "BHE",
   "GERENCIA" : "SE/CTO",
-  "JUSTIFICATIVA" : "- Em credenciamento: Alô / QDP : + 13\n- Crescimento vd: Farnese +1 / Knet +3 / MGD +2= 6",
+  "JUSTIFICATIVA" : "- Em credenciamento: Alô / QDP : + 13 - Crescimento vd: Farnese +1 / Knet +3 / MGD +2= 6",
   "PROJEÇÃO" : "47"
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -92,7 +92,7 @@
   "INDICADORES" : "TICKET MEDIO",
   "REGIONAL" : "BHE",
   "GERENCIA" : "SE/CTO",
-  "JUSTIFICATIVA" : "1) Foco oferta BF R$ 136,00\n2) Aumentar fixo\n3) Aumento % comissão VD maiores velocidades e Diminuição 100Mb e alone",
+  "JUSTIFICATIVA" : "1) Foco oferta BF R$ 136,00 2) Aumentar fixo 3) Aumento % comissão VD maiores velocidades e Diminuição 100Mb e alone",
   "PROJEÇÃO" : "131"
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -108,7 +108,7 @@
   "INDICADORES" : "AVANCADOS",
   "REGIONAL" : "BHE",
   "GERENCIA" : "SE/CTO",
-  "JUSTIFICATIVA" : "1) Vendedores especializados \n2) Semanal Avançados\n3) Novo parceiro especializado",
+  "JUSTIFICATIVA" : "1) Vendedores especializados  2) Semanal Avançados 3) Novo parceiro especializado",
   "PROJEÇÃO" : "51%"
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -116,7 +116,7 @@
   "INDICADORES" : "NPS",
   "REGIONAL" : "BHE",
   "GERENCIA" : "SE/CTO",
-  "JUSTIFICATIVA" : "1) VD fala sobre a pesquisa \n2) Rotina BKO agendamento solicitar a resposta \n3) GC liga para base não respondido",
+  "JUSTIFICATIVA" : "1) VD fala sobre a pesquisa  2) Rotina BKO agendamento solicitar a resposta  3) GC liga para base não respondido",
   "PROJEÇÃO" : "64%"
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -124,7 +124,7 @@
   "INDICADORES" : "D+2",
   "REGIONAL" : "BHE",
   "GERENCIA" : "SE/CTO",
-  "JUSTIFICATIVA" : "KPI 84%\n1) Contratação de + 3 equipes para BH, totalizando 06 equipes\n2) Acompanhamento diário do balde junto aos parceiros e equipe de Operações",
+  "JUSTIFICATIVA" : "KPI 84% 1) Contratação de + 3 equipes para BH, totalizando 06 equipes 2) Acompanhamento diário do balde junto aos parceiros e equipe de Operações",
   "PROJEÇÃO" : "90%"
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -132,7 +132,7 @@
   "INDICADORES" : "Md. Vd.",
   "REGIONAL" : "BHE",
   "GERENCIA" : "SE/CTO",
-  "JUSTIFICATIVA" : "Realizado + esteira AV34k= R$ 918,91 por VD\n1) Desenvolvimento novos VD: acompanhamento GC em campo treinamentos com simulação de vendas semanal de avançados",
+  "JUSTIFICATIVA" : "Realizado + esteira AV34k= R$ 918,91 por VD 1) Desenvolvimento novos VD: acompanhamento GC em campo treinamentos com simulação de vendas semanal de avançados",
   "PROJEÇÃO" : "1,053.00"
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -140,7 +140,7 @@
   "INDICADORES" : "APP LOGIN",
   "REGIONAL" : "BHE",
   "GERENCIA" : "SE/CTO",
-  "JUSTIFICATIVA" : "1) Direcionamento balde BH para novo parceiro\n2) Inclusão do APP nos indicadores de remuneração do técnico \n3) Mensagem de boas vindas com link do APP\n replicar benchmarking VTA",
+  "JUSTIFICATIVA" : "1) Direcionamento balde BH para novo parceiro 2) Inclusão do APP nos indicadores de remuneração do técnico  3) Mensagem de boas vindas com link do APP  replicar benchmarking VTA",
   "PROJEÇÃO" : "26%"
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -796,7 +796,7 @@
   "INDICADORES" : "VENDAS",
   "REGIONAL" : "VTA",
   "GERENCIA" : "SE/CTO",
-  "JUSTIFICATIVA" : "1 – Virada para Avançados (Esteira 5,6k)\n2 - Repassar vendas perdidas (+ 1 k)  \n3 - Novos vendedores (+07) ",
+  "JUSTIFICATIVA" : "1 – Virada para Avançados (Esteira 5,6k) 2 - Repassar vendas perdidas (+ 1 k)   3 - Novos vendedores (+07) ",
   "PROJEÇÃO" : "16,151"
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -804,7 +804,7 @@
   "INDICADORES" : "FDV",
   "REGIONAL" : "VTA",
   "GERENCIA" : "SE/CTO",
-  "JUSTIFICATIVA" : "1) Credenciamento em andamento +3\n2) Crescimento 2P: +4",
+  "JUSTIFICATIVA" : "1) Credenciamento em andamento +3 2) Crescimento 2P: +4",
   "PROJEÇÃO" : "13"
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -812,7 +812,7 @@
   "INDICADORES" : "TICKET MEDIO",
   "REGIONAL" : "VTA",
   "GERENCIA" : "SE/CTO",
-  "JUSTIFICATIVA" : "1) Foco oferta BF R$ 136,00\n2) Aumentar fixo\n3) Aumento % comissão VD maiores velocidades e Diminuição 100Mb e alone",
+  "JUSTIFICATIVA" : "1) Foco oferta BF R$ 136,00 2) Aumentar fixo 3) Aumento % comissão VD maiores velocidades e Diminuição 100Mb e alone",
   "PROJEÇÃO" : "132"
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -828,7 +828,7 @@
   "INDICADORES" : "AVANCADOS",
   "REGIONAL" : "VTA",
   "GERENCIA" : "SE/CTO",
-  "JUSTIFICATIVA" : "\"1) Vendedores especializados \n2) Semanal Avançados\n3) Novo parceiro especializado\"",
+  "JUSTIFICATIVA" : "1) Vendedores especializados  2) Semanal Avançados 3) Novo parceiro especializado",
   "PROJEÇÃO" : "30%"
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -836,7 +836,7 @@
   "INDICADORES" : "NPS",
   "REGIONAL" : "VTA",
   "GERENCIA" : "SE/CTO",
-  "JUSTIFICATIVA" : "\"1) VD fala sobre a pesquisa \n2) Rotina BKO agendamento solicitar a resposta \n3) GC liga para base não respondido\"",
+  "JUSTIFICATIVA" : "1) VD fala sobre a pesquisa  2) Rotina BKO agendamento solicitar a resposta  3) GC liga para base não respondido",
   "PROJEÇÃO" : "60%"
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -844,7 +844,7 @@
   "INDICADORES" : "D+2",
   "REGIONAL" : "VTA",
   "GERENCIA" : "SE/CTO",
-  "JUSTIFICATIVA" : "KPI 80,3%\n1) Acompanhamento diário do balde junto aos parceiros e equipe de Operações",
+  "JUSTIFICATIVA" : "KPI 80,3% 1) Acompanhamento diário do balde junto aos parceiros e equipe de Operações",
   "PROJEÇÃO" : "90%"
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -852,7 +852,7 @@
   "INDICADORES" : "Md. Vd.",
   "REGIONAL" : "VTA",
   "GERENCIA" : "SE/CTO",
-  "JUSTIFICATIVA" : "Realizado + esteira ava 8,7k R$ 1.242,00 por VD\n1) Descredenciamento improdutivos sem chance de recuperação\n2) Desenvolvimento novos VD: acompanhamento GC em campo treinamentos com simulação de vendas semanal de avançados",
+  "JUSTIFICATIVA" : "Realizado + esteira ava 8,7k R$ 1.242,00 por VD 1) Descredenciamento improdutivos sem chance de recuperação 2) Desenvolvimento novos VD: acompanhamento GC em campo treinamentos com simulação de vendas semanal de avançados",
   "PROJEÇÃO" : "1,146"
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -7242,4 +7242,4 @@
   "ORC DIGITAL" : 0.21,
   "APP LOGIN" : 0.11764705882352941,
   "ORC APP" : 0.3
-} ]
+} ];
