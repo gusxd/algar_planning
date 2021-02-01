@@ -6755,61 +6755,61 @@ var dadosPlanning = [ {
   "MES" : "JAN/21",
   "REGIONAL" : "SDR",
   "GERENCIA" : "NE SUL",
-  "D+2" : 0.9167
+  "D+2" : 0.9592
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
   "REGIONAL" : "BCU",
   "GERENCIA" : "SUL",
-  "D+2" : 0.9849
+  "D+2" : 0.9778
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
   "REGIONAL" : "BHE",
   "GERENCIA" : "SE/CTO",
-  "D+2" : 0.8065
+  "D+2" : 0.9091
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
   "REGIONAL" : "BSA",
   "GERENCIA" : "SE/CTO",
-  "D+2" : 0.8
+  "D+2" : 0.8831
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
   "REGIONAL" : "CPS",
   "GERENCIA" : "SP INT",
-  "D+2" : 0.9442
+  "D+2" : 0.965
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
   "REGIONAL" : "FLA",
   "GERENCIA" : "NE N-CE",
-  "D+2" : 0.9048
+  "D+2" : 0.9474
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
   "REGIONAL" : "SDR",
   "GERENCIA" : "NE SUL",
-  "D+2" : 0.9286
+  "D+2" : 0.9444
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
   "REGIONAL" : "GNA",
   "GERENCIA" : "SE/CTO",
-  "D+2" : 0.8182
+  "D+2" : 0.9267
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
   "REGIONAL" : "RCE",
   "GERENCIA" : "NE N-CE",
-  "D+2" : 1.0
+  "D+2" : 0.963
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
   "REGIONAL" : "SDR",
   "GERENCIA" : "NE SUL",
-  "D+2" : 1.0
+  "D+2" : 0.9783
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
@@ -6821,43 +6821,43 @@ var dadosPlanning = [ {
   "MES" : "JAN/21",
   "REGIONAL" : "PAE",
   "GERENCIA" : "SUL",
-  "D+2" : 0.9742
+  "D+2" : 0.9673
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
   "REGIONAL" : "RCE",
   "GERENCIA" : "NE N-CE",
-  "D+2" : 0.961
+  "D+2" : 0.9682
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
   "REGIONAL" : "RPO",
   "GERENCIA" : "SP INT",
-  "D+2" : 0.9298
+  "D+2" : 0.9337
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
   "REGIONAL" : "SDR",
   "GERENCIA" : "NE SUL",
-  "D+2" : 0.9767
+  "D+2" : 0.9379
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
   "REGIONAL" : "SPO",
   "GERENCIA" : "SP METRO",
-  "D+2" : 0.9195
+  "D+2" : 0.9238
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
   "REGIONAL" : "RPO",
   "GERENCIA" : "SP INT",
-  "D+2" : 0.9552
+  "D+2" : 0.973
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
   "REGIONAL" : "VTA",
   "GERENCIA" : "SE/CTO",
-  "D+2" : 0.7143
+  "D+2" : 0.8926
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
