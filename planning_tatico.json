@@ -1,4 +1,4 @@
-var dadosPlanning = [ {
+[ {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
   "INDICADORES" : "VENDAS",
@@ -76,7 +76,7 @@ var dadosPlanning = [ {
   "INDICADORES" : "VENDAS",
   "REGIONAL" : "BHE",
   "GERENCIA" : "SE/CTO",
-  "JUSTIFICATIVA" : "1 – Virada para Avançados (Esteira 25k)   2 - Repassar vendas perdidas (+ 3 k)  3 – Rentabilização KNET (SVA´s + 3k) 3 - Novos vendedores (+13 treinados)",
+  "JUSTIFICATIVA" : "1 – Virada para Avançados (Esteira 25k)  \n2 - Repassar vendas perdidas (+ 3 k) \n3 – Rentabilização KNET (SVA´s + 3k)\n3 - Novos vendedores (+13 treinados)",
   "PROJEÇÃO" : "49,562"
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -84,7 +84,7 @@ var dadosPlanning = [ {
   "INDICADORES" : "FDV",
   "REGIONAL" : "BHE",
   "GERENCIA" : "SE/CTO",
-  "JUSTIFICATIVA" : "- Em credenciamento: Alô / QDP : + 13 - Crescimento vd: Farnese +1 / Knet +3 / MGD +2= 6",
+  "JUSTIFICATIVA" : "- Em credenciamento: Alô / QDP : + 13\n- Crescimento vd: Farnese +1 / Knet +3 / MGD +2= 6",
   "PROJEÇÃO" : "47"
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -92,7 +92,7 @@ var dadosPlanning = [ {
   "INDICADORES" : "TICKET MEDIO",
   "REGIONAL" : "BHE",
   "GERENCIA" : "SE/CTO",
-  "JUSTIFICATIVA" : "1) Foco oferta BF R$ 136,00 2) Aumentar fixo 3) Aumento % comissão VD maiores velocidades e Diminuição 100Mb e alone",
+  "JUSTIFICATIVA" : "1) Foco oferta BF R$ 136,00\n2) Aumentar fixo\n3) Aumento % comissão VD maiores velocidades e Diminuição 100Mb e alone",
   "PROJEÇÃO" : "131"
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -108,7 +108,7 @@ var dadosPlanning = [ {
   "INDICADORES" : "AVANCADOS",
   "REGIONAL" : "BHE",
   "GERENCIA" : "SE/CTO",
-  "JUSTIFICATIVA" : "1) Vendedores especializados  2) Semanal Avançados 3) Novo parceiro especializado",
+  "JUSTIFICATIVA" : "1) Vendedores especializados \n2) Semanal Avançados\n3) Novo parceiro especializado",
   "PROJEÇÃO" : "51%"
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -116,7 +116,7 @@ var dadosPlanning = [ {
   "INDICADORES" : "NPS",
   "REGIONAL" : "BHE",
   "GERENCIA" : "SE/CTO",
-  "JUSTIFICATIVA" : "1) VD fala sobre a pesquisa  2) Rotina BKO agendamento solicitar a resposta  3) GC liga para base não respondido",
+  "JUSTIFICATIVA" : "1) VD fala sobre a pesquisa \n2) Rotina BKO agendamento solicitar a resposta \n3) GC liga para base não respondido",
   "PROJEÇÃO" : "64%"
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -124,7 +124,7 @@ var dadosPlanning = [ {
   "INDICADORES" : "D+2",
   "REGIONAL" : "BHE",
   "GERENCIA" : "SE/CTO",
-  "JUSTIFICATIVA" : "KPI 84% 1) Contratação de + 3 equipes para BH, totalizando 06 equipes 2) Acompanhamento diário do balde junto aos parceiros e equipe de Operações",
+  "JUSTIFICATIVA" : "KPI 84%\n1) Contratação de + 3 equipes para BH, totalizando 06 equipes\n2) Acompanhamento diário do balde junto aos parceiros e equipe de Operações",
   "PROJEÇÃO" : "90%"
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -132,7 +132,7 @@ var dadosPlanning = [ {
   "INDICADORES" : "Md. Vd.",
   "REGIONAL" : "BHE",
   "GERENCIA" : "SE/CTO",
-  "JUSTIFICATIVA" : "Realizado + esteira AV34k= R$ 918,91 por VD 1) Desenvolvimento novos VD: acompanhamento GC em campo treinamentos com simulação de vendas semanal de avançados",
+  "JUSTIFICATIVA" : "Realizado + esteira AV34k= R$ 918,91 por VD\n1) Desenvolvimento novos VD: acompanhamento GC em campo treinamentos com simulação de vendas semanal de avançados",
   "PROJEÇÃO" : "1,053.00"
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -140,7 +140,7 @@ var dadosPlanning = [ {
   "INDICADORES" : "APP LOGIN",
   "REGIONAL" : "BHE",
   "GERENCIA" : "SE/CTO",
-  "JUSTIFICATIVA" : "1) Direcionamento balde BH para novo parceiro 2) Inclusão do APP nos indicadores de remuneração do técnico  3) Mensagem de boas vindas com link do APP  replicar benchmarking VTA",
+  "JUSTIFICATIVA" : "1) Direcionamento balde BH para novo parceiro\n2) Inclusão do APP nos indicadores de remuneração do técnico \n3) Mensagem de boas vindas com link do APP\n replicar benchmarking VTA",
   "PROJEÇÃO" : "26%"
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -796,7 +796,7 @@ var dadosPlanning = [ {
   "INDICADORES" : "VENDAS",
   "REGIONAL" : "VTA",
   "GERENCIA" : "SE/CTO",
-  "JUSTIFICATIVA" : "1 – Virada para Avançados (Esteira 5,6k) 2 - Repassar vendas perdidas (+ 1 k)   3 - Novos vendedores (+07) ",
+  "JUSTIFICATIVA" : "1 – Virada para Avançados (Esteira 5,6k)\n2 - Repassar vendas perdidas (+ 1 k)  \n3 - Novos vendedores (+07) ",
   "PROJEÇÃO" : "16,151"
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -804,7 +804,7 @@ var dadosPlanning = [ {
   "INDICADORES" : "FDV",
   "REGIONAL" : "VTA",
   "GERENCIA" : "SE/CTO",
-  "JUSTIFICATIVA" : "1) Credenciamento em andamento +3 2) Crescimento 2P: +4",
+  "JUSTIFICATIVA" : "1) Credenciamento em andamento +3\n2) Crescimento 2P: +4",
   "PROJEÇÃO" : "13"
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -812,7 +812,7 @@ var dadosPlanning = [ {
   "INDICADORES" : "TICKET MEDIO",
   "REGIONAL" : "VTA",
   "GERENCIA" : "SE/CTO",
-  "JUSTIFICATIVA" : "1) Foco oferta BF R$ 136,00 2) Aumentar fixo 3) Aumento % comissão VD maiores velocidades e Diminuição 100Mb e alone",
+  "JUSTIFICATIVA" : "1) Foco oferta BF R$ 136,00\n2) Aumentar fixo\n3) Aumento % comissão VD maiores velocidades e Diminuição 100Mb e alone",
   "PROJEÇÃO" : "132"
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -828,7 +828,7 @@ var dadosPlanning = [ {
   "INDICADORES" : "AVANCADOS",
   "REGIONAL" : "VTA",
   "GERENCIA" : "SE/CTO",
-  "JUSTIFICATIVA" : "1) Vendedores especializados  2) Semanal Avançados 3) Novo parceiro especializado",
+  "JUSTIFICATIVA" : "\"1) Vendedores especializados \n2) Semanal Avançados\n3) Novo parceiro especializado\"",
   "PROJEÇÃO" : "30%"
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -836,7 +836,7 @@ var dadosPlanning = [ {
   "INDICADORES" : "NPS",
   "REGIONAL" : "VTA",
   "GERENCIA" : "SE/CTO",
-  "JUSTIFICATIVA" : "1) VD fala sobre a pesquisa  2) Rotina BKO agendamento solicitar a resposta  3) GC liga para base não respondido",
+  "JUSTIFICATIVA" : "\"1) VD fala sobre a pesquisa \n2) Rotina BKO agendamento solicitar a resposta \n3) GC liga para base não respondido\"",
   "PROJEÇÃO" : "60%"
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -844,7 +844,7 @@ var dadosPlanning = [ {
   "INDICADORES" : "D+2",
   "REGIONAL" : "VTA",
   "GERENCIA" : "SE/CTO",
-  "JUSTIFICATIVA" : "KPI 80,3% 1) Acompanhamento diário do balde junto aos parceiros e equipe de Operações",
+  "JUSTIFICATIVA" : "KPI 80,3%\n1) Acompanhamento diário do balde junto aos parceiros e equipe de Operações",
   "PROJEÇÃO" : "90%"
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -852,7 +852,7 @@ var dadosPlanning = [ {
   "INDICADORES" : "Md. Vd.",
   "REGIONAL" : "VTA",
   "GERENCIA" : "SE/CTO",
-  "JUSTIFICATIVA" : "Realizado + esteira ava 8,7k R$ 1.242,00 por VD 1) Descredenciamento improdutivos sem chance de recuperação 2) Desenvolvimento novos VD: acompanhamento GC em campo treinamentos com simulação de vendas semanal de avançados",
+  "JUSTIFICATIVA" : "Realizado + esteira ava 8,7k R$ 1.242,00 por VD\n1) Descredenciamento improdutivos sem chance de recuperação\n2) Desenvolvimento novos VD: acompanhamento GC em campo treinamentos com simulação de vendas semanal de avançados",
   "PROJEÇÃO" : "1,146"
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -870,13 +870,21 @@ var dadosPlanning = [ {
   "TICKET MEDIO" : 147,
   "AVANCADOS" : 0.1909251220835594,
   "VENDAS" : 14744.0,
+  "PROJECAO VENDAS" : 25158,
   "ORC VENDAS" : 49562.35294117646,
   "BLFIXO" : 1.7,
   "OCUPACAO" : 8302,
   "TOTAL PORTAS" : 20333,
   "DIGITAL" : 6999,
   "APP LOGIN" : 0.0,
-  "ORC APP" : 0.4
+  "ORC APP" : 0.4,
+  "ANEXO" : 193,
+  "ANEXO TOTAL" : 199,
+  "ORC ANEXO" : 1,
+  "QDE BL" : 488,
+  "CPF" : 16625.609999999975,
+  "CNPJ" : 29510.180000000073,
+  "TOTAL CPF CNPJ" : 46135.79000000005
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
@@ -885,13 +893,21 @@ var dadosPlanning = [ {
   "TICKET MEDIO" : 145,
   "AVANCADOS" : 0.06061107434370174,
   "VENDAS" : 18132.0,
+  "PROJECAO VENDAS" : 28915,
   "ORC VENDAS" : 42240.0,
   "BLFIXO" : 1.1,
   "OCUPACAO" : 5120,
   "TOTAL PORTAS" : 9959,
   "DIGITAL" : 3888,
   "APP LOGIN" : 0.14285714285714285,
-  "ORC APP" : 0.4
+  "ORC APP" : 0.4,
+  "ANEXO" : 289,
+  "ANEXO TOTAL" : 429,
+  "ORC ANEXO" : 1,
+  "QDE BL" : 701,
+  "CPF" : 29220.120000000272,
+  "CNPJ" : 18982.87000000001,
+  "TOTAL CPF CNPJ" : 48202.99000000028
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
@@ -900,13 +916,21 @@ var dadosPlanning = [ {
   "TICKET MEDIO" : 135,
   "AVANCADOS" : 0.2429385687143762,
   "VENDAS" : 7895.0,
+  "PROJECAO VENDAS" : 11640,
   "ORC VENDAS" : 22023.529411764706,
   "BLFIXO" : 1.2,
   "OCUPACAO" : 1341,
   "TOTAL PORTAS" : 4571,
   "DIGITAL" : 535,
   "APP LOGIN" : 0.3333333333333333,
-  "ORC APP" : 0.4
+  "ORC APP" : 0.4,
+  "ANEXO" : 58,
+  "ANEXO TOTAL" : 58,
+  "ORC ANEXO" : 1,
+  "QDE BL" : 225,
+  "CPF" : 4912.239999999998,
+  "CNPJ" : 6352.8599999999915,
+  "TOTAL CPF CNPJ" : 11265.09999999999
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
@@ -915,13 +939,21 @@ var dadosPlanning = [ {
   "TICKET MEDIO" : 138,
   "AVANCADOS" : 0.10624715002279982,
   "VENDAS" : 6579.0,
+  "PROJECAO VENDAS" : 10486,
   "ORC VENDAS" : 16150.58823529412,
   "BLFIXO" : 1.5,
   "OCUPACAO" : 2977,
   "TOTAL PORTAS" : 6153,
   "DIGITAL" : 3355,
   "APP LOGIN" : 0.6666666666666666,
-  "ORC APP" : 0.4
+  "ORC APP" : 0.4,
+  "ANEXO" : 86,
+  "ANEXO TOTAL" : 90,
+  "ORC ANEXO" : 1,
+  "QDE BL" : 234,
+  "CPF" : 5797.209999999993,
+  "CNPJ" : 11321.229999999998,
+  "TOTAL CPF CNPJ" : 17118.43999999999
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
@@ -930,13 +962,21 @@ var dadosPlanning = [ {
   "TICKET MEDIO" : 145,
   "AVANCADOS" : 0.06239115620504278,
   "VENDAS" : 26414.0,
+  "PROJECAO VENDAS" : 41953,
   "ORC VENDAS" : 70857.14285714286,
   "BLFIXO" : 0.9,
   "OCUPACAO" : 7804,
   "TOTAL PORTAS" : 15658,
   "DIGITAL" : 3511,
   "APP LOGIN" : 0.4666666666666667,
-  "ORC APP" : 0.4
+  "ORC APP" : 0.4,
+  "ANEXO" : 469,
+  "ANEXO TOTAL" : 485,
+  "ORC ANEXO" : 1,
+  "QDE BL" : 694,
+  "CPF" : 28083.60000000018,
+  "CNPJ" : 29310.84000000012,
+  "TOTAL CPF CNPJ" : 57394.4400000003
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
@@ -945,13 +985,21 @@ var dadosPlanning = [ {
   "TICKET MEDIO" : 147,
   "AVANCADOS" : 0.1365444293893964,
   "VENDAS" : 22879.0,
+  "PROJECAO VENDAS" : 34073,
   "ORC VENDAS" : 50605.882352941175,
   "BLFIXO" : 1.3,
   "OCUPACAO" : 10925,
   "TOTAL PORTAS" : 15218,
   "DIGITAL" : 3692,
   "APP LOGIN" : 0.0,
-  "ORC APP" : 0.4
+  "ORC APP" : 0.4,
+  "ANEXO" : 446,
+  "ANEXO TOTAL" : 451,
+  "ORC ANEXO" : 1,
+  "QDE BL" : 494,
+  "CPF" : 18189.430000000004,
+  "CNPJ" : 29864.060000000038,
+  "TOTAL CPF CNPJ" : 48053.49000000004
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
@@ -960,13 +1008,21 @@ var dadosPlanning = [ {
   "TICKET MEDIO" : 140,
   "AVANCADOS" : 0.10853238760821947,
   "VENDAS" : 19174.0,
+  "PROJECAO VENDAS" : 29923,
   "ORC VENDAS" : 38002.5,
   "BLFIXO" : 1.1,
   "OCUPACAO" : 9561,
   "TOTAL PORTAS" : 17987,
   "DIGITAL" : 3590,
   "APP LOGIN" : 0.0,
-  "ORC APP" : 0.4
+  "ORC APP" : 0.4,
+  "ANEXO" : 266,
+  "ANEXO TOTAL" : 276,
+  "ORC ANEXO" : 1,
+  "QDE BL" : 546,
+  "CPF" : 21714.050000000087,
+  "CNPJ" : 18753.08000000001,
+  "TOTAL CPF CNPJ" : 40467.13000000009
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
@@ -975,13 +1031,21 @@ var dadosPlanning = [ {
   "TICKET MEDIO" : 144,
   "AVANCADOS" : 0.0810816502748352,
   "VENDAS" : 47483.0,
+  "PROJECAO VENDAS" : 75300,
   "ORC VENDAS" : 93991.76470588233,
   "BLFIXO" : 1.2,
   "OCUPACAO" : 9585,
   "TOTAL PORTAS" : 31187,
   "DIGITAL" : 5131,
   "APP LOGIN" : 0.175,
-  "ORC APP" : 0.4
+  "ORC APP" : 0.4,
+  "ANEXO" : 520,
+  "ANEXO TOTAL" : 525,
+  "ORC ANEXO" : 1,
+  "QDE BL" : 1464,
+  "CPF" : 51864.54000000033,
+  "CNPJ" : 52047.060000000165,
+  "TOTAL CPF CNPJ" : 103911.6000000005
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
@@ -990,13 +1054,21 @@ var dadosPlanning = [ {
   "TICKET MEDIO" : 143,
   "AVANCADOS" : 0.0,
   "VENDAS" : 30191.0,
+  "PROJECAO VENDAS" : 48055,
   "ORC VENDAS" : 93825.30120481929,
   "BLFIXO" : 1.1,
   "OCUPACAO" : 7593,
   "TOTAL PORTAS" : 30553,
   "DIGITAL" : 9278,
   "APP LOGIN" : 0.5714285714285714,
-  "ORC APP" : 0.4
+  "ORC APP" : 0.4,
+  "ANEXO" : 402,
+  "ANEXO TOTAL" : 422,
+  "ORC ANEXO" : 1,
+  "QDE BL" : 1081,
+  "CPF" : 37011.110000000284,
+  "CNPJ" : 33026.870000000235,
+  "TOTAL CPF CNPJ" : 70037.98000000052
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
@@ -1005,13 +1077,21 @@ var dadosPlanning = [ {
   "TICKET MEDIO" : 132,
   "AVANCADOS" : 0.07502223979440546,
   "VENDAS" : 20234.0,
+  "PROJECAO VENDAS" : 31673,
   "ORC VENDAS" : 51510.58823529412,
   "BLFIXO" : 0.9,
   "OCUPACAO" : 5812,
   "TOTAL PORTAS" : 12098,
   "DIGITAL" : 2828,
   "APP LOGIN" : 0.0,
-  "ORC APP" : 0.4
+  "ORC APP" : 0.4,
+  "ANEXO" : 232,
+  "ANEXO TOTAL" : 252,
+  "ORC ANEXO" : 1,
+  "QDE BL" : 585,
+  "CPF" : 22789.09000000011,
+  "CNPJ" : 14751.769999999997,
+  "TOTAL CPF CNPJ" : 37540.8600000001
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
@@ -1020,13 +1100,21 @@ var dadosPlanning = [ {
   "TICKET MEDIO" : 141,
   "AVANCADOS" : 0.0,
   "VENDAS" : 19861.0,
+  "PROJECAO VENDAS" : 32250,
   "ORC VENDAS" : 57930.82352941176,
   "BLFIXO" : 1.3,
   "OCUPACAO" : 6582,
   "TOTAL PORTAS" : 14776,
   "DIGITAL" : 2889,
   "APP LOGIN" : 0.7894736842105263,
-  "ORC APP" : 0.4
+  "ORC APP" : 0.4,
+  "ANEXO" : 238,
+  "ANEXO TOTAL" : 246,
+  "ORC ANEXO" : 1,
+  "QDE BL" : 744,
+  "CPF" : 19177.10000000007,
+  "CNPJ" : 22165.2700000001,
+  "TOTAL CPF CNPJ" : 41342.37000000017
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
@@ -1035,13 +1123,21 @@ var dadosPlanning = [ {
   "TICKET MEDIO" : 134,
   "AVANCADOS" : 0.04851244687310261,
   "VENDAS" : 16470.0,
+  "PROJECAO VENDAS" : 25711,
   "ORC VENDAS" : 62865.88235294118,
   "BLFIXO" : 1.1,
   "OCUPACAO" : 2992,
   "TOTAL PORTAS" : 9074,
   "DIGITAL" : 2421,
   "APP LOGIN" : 0.05263157894736842,
-  "ORC APP" : 0.4
+  "ORC APP" : 0.4,
+  "ANEXO" : 209,
+  "ANEXO TOTAL" : 213,
+  "ORC ANEXO" : 1,
+  "QDE BL" : 560,
+  "CPF" : 18004.990000000023,
+  "CNPJ" : 14065.440000000006,
+  "TOTAL CPF CNPJ" : 32070.43000000003
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
@@ -1052,8 +1148,6 @@ var dadosPlanning = [ {
   "ORC BL" : 9,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -1065,8 +1159,6 @@ var dadosPlanning = [ {
   "ORC BL" : 33,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -1078,8 +1170,6 @@ var dadosPlanning = [ {
   "ORC BL" : 13,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -1091,8 +1181,6 @@ var dadosPlanning = [ {
   "ORC BL" : 0,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -1104,8 +1192,6 @@ var dadosPlanning = [ {
   "ORC BL" : 28,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -1117,8 +1203,6 @@ var dadosPlanning = [ {
   "ORC BL" : 11,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -1130,8 +1214,6 @@ var dadosPlanning = [ {
   "ORC BL" : 1,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -1143,8 +1225,6 @@ var dadosPlanning = [ {
   "ORC BL" : 18,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -1156,8 +1236,6 @@ var dadosPlanning = [ {
   "ORC BL" : 34,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -1169,8 +1247,6 @@ var dadosPlanning = [ {
   "ORC BL" : 15,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -1182,8 +1258,6 @@ var dadosPlanning = [ {
   "ORC BL" : 0,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -1195,8 +1269,6 @@ var dadosPlanning = [ {
   "ORC BL" : 17,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -1208,8 +1280,6 @@ var dadosPlanning = [ {
   "ORC BL" : 21,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -1221,8 +1291,6 @@ var dadosPlanning = [ {
   "ORC BL" : 15,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -1234,8 +1302,6 @@ var dadosPlanning = [ {
   "ORC BL" : 76,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -1247,8 +1313,6 @@ var dadosPlanning = [ {
   "ORC BL" : 7,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -1260,8 +1324,6 @@ var dadosPlanning = [ {
   "ORC BL" : 7,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -1273,8 +1335,6 @@ var dadosPlanning = [ {
   "ORC BL" : 52,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -1286,8 +1346,6 @@ var dadosPlanning = [ {
   "ORC BL" : 0,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -1299,8 +1357,6 @@ var dadosPlanning = [ {
   "ORC BL" : 0,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -1312,8 +1368,6 @@ var dadosPlanning = [ {
   "ORC BL" : 0,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -1325,8 +1379,6 @@ var dadosPlanning = [ {
   "ORC BL" : 0,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -1338,8 +1390,6 @@ var dadosPlanning = [ {
   "ORC BL" : 21,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -1351,8 +1401,6 @@ var dadosPlanning = [ {
   "ORC BL" : 0,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -1364,8 +1412,6 @@ var dadosPlanning = [ {
   "ORC BL" : 71,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -1377,8 +1423,6 @@ var dadosPlanning = [ {
   "ORC BL" : 67,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -1390,8 +1434,6 @@ var dadosPlanning = [ {
   "ORC BL" : 0,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -1403,8 +1445,6 @@ var dadosPlanning = [ {
   "ORC BL" : 26,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -1416,8 +1456,6 @@ var dadosPlanning = [ {
   "ORC BL" : 0,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -1429,8 +1467,6 @@ var dadosPlanning = [ {
   "ORC BL" : 170,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -1442,8 +1478,6 @@ var dadosPlanning = [ {
   "ORC BL" : 27,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -1455,8 +1489,6 @@ var dadosPlanning = [ {
   "ORC BL" : 0,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -1468,8 +1500,6 @@ var dadosPlanning = [ {
   "ORC BL" : 24,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -1481,8 +1511,6 @@ var dadosPlanning = [ {
   "ORC BL" : 15,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -1494,8 +1522,6 @@ var dadosPlanning = [ {
   "ORC BL" : 80,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -1507,8 +1533,6 @@ var dadosPlanning = [ {
   "ORC BL" : 49,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -1520,8 +1544,6 @@ var dadosPlanning = [ {
   "ORC BL" : 63,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -1533,8 +1555,6 @@ var dadosPlanning = [ {
   "ORC BL" : 35,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -1546,8 +1566,6 @@ var dadosPlanning = [ {
   "ORC BL" : 13,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -1559,8 +1577,6 @@ var dadosPlanning = [ {
   "ORC BL" : 81,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -1572,8 +1588,6 @@ var dadosPlanning = [ {
   "ORC BL" : 90,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -1585,8 +1599,6 @@ var dadosPlanning = [ {
   "ORC BL" : 46,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -1598,8 +1610,6 @@ var dadosPlanning = [ {
   "ORC BL" : 0,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -1611,8 +1621,6 @@ var dadosPlanning = [ {
   "ORC BL" : 13,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -1624,8 +1632,6 @@ var dadosPlanning = [ {
   "ORC BL" : 5,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -1637,8 +1643,6 @@ var dadosPlanning = [ {
   "ORC BL" : 161,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -1650,8 +1654,6 @@ var dadosPlanning = [ {
   "ORC BL" : 38,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -1663,8 +1665,6 @@ var dadosPlanning = [ {
   "ORC BL" : 0,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -1676,8 +1676,6 @@ var dadosPlanning = [ {
   "ORC BL" : 91,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -1689,8 +1687,6 @@ var dadosPlanning = [ {
   "ORC BL" : 10,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -1702,8 +1698,6 @@ var dadosPlanning = [ {
   "ORC BL" : 61,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -1715,8 +1709,6 @@ var dadosPlanning = [ {
   "ORC BL" : 0,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -1728,8 +1720,6 @@ var dadosPlanning = [ {
   "ORC BL" : 1,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -1741,8 +1731,6 @@ var dadosPlanning = [ {
   "ORC BL" : 135,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -1754,8 +1742,6 @@ var dadosPlanning = [ {
   "ORC BL" : 20,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -1767,8 +1753,6 @@ var dadosPlanning = [ {
   "ORC BL" : 0,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -1780,8 +1764,6 @@ var dadosPlanning = [ {
   "ORC BL" : 12,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -1793,8 +1775,6 @@ var dadosPlanning = [ {
   "ORC BL" : 56,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -1806,8 +1786,6 @@ var dadosPlanning = [ {
   "ORC BL" : 9,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -1819,8 +1797,6 @@ var dadosPlanning = [ {
   "ORC BL" : 16,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -1832,8 +1808,6 @@ var dadosPlanning = [ {
   "ORC BL" : 9,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -1845,8 +1819,6 @@ var dadosPlanning = [ {
   "ORC BL" : 28,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -1858,8 +1830,6 @@ var dadosPlanning = [ {
   "ORC BL" : 149,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -1871,8 +1841,6 @@ var dadosPlanning = [ {
   "ORC BL" : 30,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -1884,8 +1852,6 @@ var dadosPlanning = [ {
   "ORC BL" : 13,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -1897,8 +1863,6 @@ var dadosPlanning = [ {
   "ORC BL" : 0,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -1910,8 +1874,6 @@ var dadosPlanning = [ {
   "ORC BL" : 7,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -1923,8 +1885,6 @@ var dadosPlanning = [ {
   "ORC BL" : 4,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -1936,8 +1896,6 @@ var dadosPlanning = [ {
   "ORC BL" : 0,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -1949,8 +1907,6 @@ var dadosPlanning = [ {
   "ORC BL" : 1,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -1962,8 +1918,6 @@ var dadosPlanning = [ {
   "ORC BL" : 1,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -1975,8 +1929,6 @@ var dadosPlanning = [ {
   "ORC BL" : 0,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -1988,8 +1940,6 @@ var dadosPlanning = [ {
   "ORC BL" : 29,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -2001,8 +1951,6 @@ var dadosPlanning = [ {
   "ORC BL" : 36,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -2014,8 +1962,6 @@ var dadosPlanning = [ {
   "ORC BL" : 17,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -2027,8 +1973,6 @@ var dadosPlanning = [ {
   "ORC BL" : 0,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -2040,8 +1984,6 @@ var dadosPlanning = [ {
   "ORC BL" : 171,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -2053,8 +1995,6 @@ var dadosPlanning = [ {
   "ORC BL" : 0,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -2066,8 +2006,6 @@ var dadosPlanning = [ {
   "ORC BL" : 0,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -2079,8 +2017,6 @@ var dadosPlanning = [ {
   "ORC BL" : 46,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -2092,8 +2028,6 @@ var dadosPlanning = [ {
   "ORC BL" : 16,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -2105,8 +2039,6 @@ var dadosPlanning = [ {
   "ORC BL" : 21,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -2118,8 +2050,6 @@ var dadosPlanning = [ {
   "ORC BL" : 46,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -2131,8 +2061,6 @@ var dadosPlanning = [ {
   "ORC BL" : 5,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -2144,8 +2072,6 @@ var dadosPlanning = [ {
   "ORC BL" : 64,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -2157,8 +2083,6 @@ var dadosPlanning = [ {
   "ORC BL" : 53,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -2170,8 +2094,6 @@ var dadosPlanning = [ {
   "ORC BL" : 68,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -2183,8 +2105,6 @@ var dadosPlanning = [ {
   "ORC BL" : 24,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -2196,8 +2116,6 @@ var dadosPlanning = [ {
   "ORC BL" : 65,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -2209,8 +2127,6 @@ var dadosPlanning = [ {
   "ORC BL" : 101,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -2222,8 +2138,6 @@ var dadosPlanning = [ {
   "ORC BL" : 38,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -2235,8 +2149,6 @@ var dadosPlanning = [ {
   "ORC BL" : 75,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -2248,8 +2160,6 @@ var dadosPlanning = [ {
   "ORC BL" : 68,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -2261,8 +2171,6 @@ var dadosPlanning = [ {
   "ORC BL" : 21,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -2274,8 +2182,6 @@ var dadosPlanning = [ {
   "ORC BL" : 2,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -2287,8 +2193,6 @@ var dadosPlanning = [ {
   "ORC BL" : 95,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -2300,8 +2204,6 @@ var dadosPlanning = [ {
   "ORC BL" : 53,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -2313,8 +2215,6 @@ var dadosPlanning = [ {
   "ORC BL" : 66,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -2326,8 +2226,6 @@ var dadosPlanning = [ {
   "ORC BL" : 52,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -2339,8 +2237,6 @@ var dadosPlanning = [ {
   "ORC BL" : 109,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -2352,8 +2248,6 @@ var dadosPlanning = [ {
   "ORC BL" : 50,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -2365,8 +2259,6 @@ var dadosPlanning = [ {
   "ORC BL" : 183,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -2378,8 +2270,6 @@ var dadosPlanning = [ {
   "ORC BL" : 29,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -2391,8 +2281,6 @@ var dadosPlanning = [ {
   "ORC BL" : 31,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -2404,8 +2292,6 @@ var dadosPlanning = [ {
   "ORC BL" : 34,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -2417,8 +2303,6 @@ var dadosPlanning = [ {
   "ORC BL" : 50,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -2427,12 +2311,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "SUL",
   "LOCALIDADE" : "BALNEARIO CAMBORIU",
   "ORC BLFIXO" : 1.0,
-  "ORC OCUPACAO" : 0.9436370082,
   "ORC BL" : 9,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -2441,12 +2322,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "SUL",
   "LOCALIDADE" : "BLUMENAU",
   "ORC BLFIXO" : 1.0,
-  "ORC OCUPACAO" : 0.4765217391,
   "ORC BL" : 33,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -2455,12 +2333,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "SUL",
   "LOCALIDADE" : "BRUSQUE",
   "ORC BLFIXO" : 1.0,
-  "ORC OCUPACAO" : 0.6504297994,
   "ORC BL" : 13,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -2469,12 +2344,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "SUL",
   "LOCALIDADE" : "CAMBORIU",
   "ORC BLFIXO" : 1.0,
-  "ORC OCUPACAO" : 0.0,
   "ORC BL" : 0,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -2483,12 +2355,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "SUL",
   "LOCALIDADE" : "FLORIANOPOLIS",
   "ORC BLFIXO" : 1.0,
-  "ORC OCUPACAO" : 0.7031990521,
   "ORC BL" : 28,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -2497,12 +2366,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "SUL",
   "LOCALIDADE" : "ITAJAI",
   "ORC BLFIXO" : 1.0,
-  "ORC OCUPACAO" : 0.9033674963,
   "ORC BL" : 11,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -2511,12 +2377,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "SUL",
   "LOCALIDADE" : "ITAPEMA",
   "ORC BLFIXO" : 1.0,
-  "ORC OCUPACAO" : 0.9614643545,
   "ORC BL" : 1,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -2525,12 +2388,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "SUL",
   "LOCALIDADE" : "JARAGUA DO SUL",
   "ORC BLFIXO" : 1.0,
-  "ORC OCUPACAO" : 0.5465924896,
   "ORC BL" : 18,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -2539,12 +2399,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "SUL",
   "LOCALIDADE" : "JOINVILLE",
   "ORC BLFIXO" : 1.0,
-  "ORC OCUPACAO" : 0.5979112272,
   "ORC BL" : 34,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -2553,12 +2410,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "SUL",
   "LOCALIDADE" : "LAGES",
   "ORC BLFIXO" : 1.0,
-  "ORC OCUPACAO" : 0.5856697819,
   "ORC BL" : 15,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -2567,12 +2421,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "SUL",
   "LOCALIDADE" : "PALHOCA",
   "ORC BLFIXO" : 1.0,
-  "ORC OCUPACAO" : 0.0,
   "ORC BL" : 0,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -2581,12 +2432,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "SUL",
   "LOCALIDADE" : "SAO BENTO DO SUL",
   "ORC BLFIXO" : 1.0,
-  "ORC OCUPACAO" : 0.4482142857,
   "ORC BL" : 17,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -2595,12 +2443,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "SUL",
   "LOCALIDADE" : "SAO JOSE",
   "ORC BLFIXO" : 1.0,
-  "ORC OCUPACAO" : 0.8512658228,
   "ORC BL" : 21,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -2609,12 +2454,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "SUL",
   "LOCALIDADE" : "TUBARAO",
   "ORC BLFIXO" : 1.0,
-  "ORC OCUPACAO" : 0.6183098592,
   "ORC BL" : 15,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -2623,12 +2465,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "SE/CTO",
   "LOCALIDADE" : "BELO HORIZONTE",
   "ORC BLFIXO" : 1.0,
-  "ORC OCUPACAO" : 0.564148073,
   "ORC BL" : 76,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -2637,12 +2476,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "SE/CTO",
   "LOCALIDADE" : "BETIM",
   "ORC BLFIXO" : 1.0,
-  "ORC OCUPACAO" : 0.338362069,
   "ORC BL" : 7,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -2651,12 +2487,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "SE/CTO",
   "LOCALIDADE" : "CONTAGEM",
   "ORC BLFIXO" : 1.0,
-  "ORC OCUPACAO" : 0.5677419355,
   "ORC BL" : 7,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -2665,12 +2498,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "SE/CTO",
   "LOCALIDADE" : "JUIZ DE FORA",
   "ORC BLFIXO" : 1.0,
-  "ORC OCUPACAO" : 0.4274902344,
   "ORC BL" : 52,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -2679,12 +2509,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "SE/CTO",
   "LOCALIDADE" : "NOVA LIMA",
   "ORC BLFIXO" : 1.0,
-  "ORC OCUPACAO" : 0.0,
   "ORC BL" : 0,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -2693,12 +2520,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "SE/CTO",
   "LOCALIDADE" : "PASSOS",
   "ORC BLFIXO" : 1.0,
-  "ORC OCUPACAO" : 0.0,
   "ORC BL" : 0,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -2707,12 +2531,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "SE/CTO",
   "LOCALIDADE" : "POCOS DE CALDAS",
   "ORC BLFIXO" : 1.0,
-  "ORC OCUPACAO" : 0.0,
   "ORC BL" : 0,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -2721,12 +2542,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "SE/CTO",
   "LOCALIDADE" : "POUSO ALEGRE",
   "ORC BLFIXO" : 1.0,
-  "ORC OCUPACAO" : 0.0,
   "ORC BL" : 0,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -2735,12 +2553,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "SE/CTO",
   "LOCALIDADE" : "SANTA LUZIA",
   "ORC BLFIXO" : 1.0,
-  "ORC OCUPACAO" : 0.5302724521,
   "ORC BL" : 21,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -2749,12 +2564,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "SE/CTO",
   "LOCALIDADE" : "VARGINHA",
   "ORC BLFIXO" : 1.0,
-  "ORC OCUPACAO" : 0.0,
   "ORC BL" : 0,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -2763,12 +2575,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "SE/CTO",
   "LOCALIDADE" : "BRASILIA",
   "ORC BLFIXO" : 1.0,
-  "ORC OCUPACAO" : 0.2588619403,
   "ORC BL" : 71,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -2777,12 +2586,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "SE/CTO",
   "LOCALIDADE" : "TAGUATINGA",
   "ORC BLFIXO" : 1.0,
-  "ORC OCUPACAO" : 0.3026499303,
   "ORC BL" : 67,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -2791,12 +2597,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "SP INT",
   "LOCALIDADE" : "AMERICANA",
   "ORC BLFIXO" : 1.018032786885246,
-  "ORC OCUPACAO" : 0.0,
   "ORC BL" : 0,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -2805,12 +2608,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "SP INT",
   "LOCALIDADE" : "ARARAS",
   "ORC BLFIXO" : 1.018032786885246,
-  "ORC OCUPACAO" : 0.1189903846,
   "ORC BL" : 26,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -2819,12 +2619,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "SP INT",
   "LOCALIDADE" : "BAURU",
   "ORC BLFIXO" : 1.018032786885246,
-  "ORC OCUPACAO" : 0.0,
   "ORC BL" : 0,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -2833,12 +2630,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "SP INT",
   "LOCALIDADE" : "CAMPINAS",
   "ORC BLFIXO" : 1.018032786885246,
-  "ORC OCUPACAO" : 0.1701394868,
   "ORC BL" : 170,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -2847,12 +2641,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "SP INT",
   "LOCALIDADE" : "HORTOLANDIA",
   "ORC BLFIXO" : 1.018032786885246,
-  "ORC OCUPACAO" : 0.3747940692,
   "ORC BL" : 27,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -2861,12 +2652,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "SP INT",
   "LOCALIDADE" : "INDAIATUBA",
   "ORC BLFIXO" : 1.018032786885246,
-  "ORC OCUPACAO" : 0.0,
   "ORC BL" : 0,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -2875,12 +2663,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "SP INT",
   "LOCALIDADE" : "ITU",
   "ORC BLFIXO" : 1.018032786885246,
-  "ORC OCUPACAO" : 0.3134920635,
   "ORC BL" : 24,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -2889,12 +2674,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "SP INT",
   "LOCALIDADE" : "JAGUARIUNA",
   "ORC BLFIXO" : 1.018032786885246,
-  "ORC OCUPACAO" : 0.0603448276,
   "ORC BL" : 15,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -2903,12 +2685,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "SP INT",
   "LOCALIDADE" : "JUNDIAI",
   "ORC BLFIXO" : 1.018032786885246,
-  "ORC OCUPACAO" : 0.3878984333,
   "ORC BL" : 80,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -2917,12 +2696,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "SP INT",
   "LOCALIDADE" : "LIMEIRA",
   "ORC BLFIXO" : 1.018032786885246,
-  "ORC OCUPACAO" : 0.1464460784,
   "ORC BL" : 49,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -2931,12 +2707,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "SP INT",
   "LOCALIDADE" : "PIRACICABA",
   "ORC BLFIXO" : 1.018032786885246,
-  "ORC OCUPACAO" : 0.3487609329,
   "ORC BL" : 63,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -2945,12 +2718,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "SP INT",
   "LOCALIDADE" : "RIO CLARO",
   "ORC BLFIXO" : 1.018032786885246,
-  "ORC OCUPACAO" : 0.1196428571,
   "ORC BL" : 35,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -2959,12 +2729,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "SP INT",
   "LOCALIDADE" : "SALTO",
   "ORC BLFIXO" : 1.018032786885246,
-  "ORC OCUPACAO" : 0.25,
   "ORC BL" : 13,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -2973,12 +2740,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "SP INT",
   "LOCALIDADE" : "SANTA BARBARA D OESTE",
   "ORC BLFIXO" : 1.018032786885246,
-  "ORC OCUPACAO" : 0.3073671498,
   "ORC BL" : 81,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -2987,12 +2751,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "SP INT",
   "LOCALIDADE" : "SOROCABA",
   "ORC BLFIXO" : 1.018032786885246,
-  "ORC OCUPACAO" : 0.4610348469,
   "ORC BL" : 90,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -3001,12 +2762,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "SP INT",
   "LOCALIDADE" : "VALINHOS",
   "ORC BLFIXO" : 1.018032786885246,
-  "ORC OCUPACAO" : 0.1559278351,
   "ORC BL" : 46,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -3015,12 +2773,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "SP INT",
   "LOCALIDADE" : "VARZEA PAULISTA",
   "ORC BLFIXO" : 1.018032786885246,
-  "ORC OCUPACAO" : 0.0,
   "ORC BL" : 0,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -3029,12 +2784,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "NE N-CE",
   "LOCALIDADE" : "CAUCAIA",
   "ORC BLFIXO" : 0.950498338870432,
-  "ORC OCUPACAO" : 0.6517857143,
   "ORC BL" : 13,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -3043,12 +2795,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "NE N-CE",
   "LOCALIDADE" : "EUSEBIO",
   "ORC BLFIXO" : 0.950498338870432,
-  "ORC OCUPACAO" : 0.125,
   "ORC BL" : 5,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -3057,12 +2806,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "NE N-CE",
   "LOCALIDADE" : "FORTALEZA",
   "ORC BLFIXO" : 0.950498338870432,
-  "ORC OCUPACAO" : 0.4138849432,
   "ORC BL" : 161,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -3071,12 +2817,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "NE N-CE",
   "LOCALIDADE" : "MARACANAU",
   "ORC BLFIXO" : 0.950498338870432,
-  "ORC OCUPACAO" : 0.2846648301,
   "ORC BL" : 38,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -3085,12 +2828,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "NE N-CE",
   "LOCALIDADE" : "MARANGUAPE",
   "ORC BLFIXO" : 0.950498338870432,
-  "ORC OCUPACAO" : 0.0,
   "ORC BL" : 0,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -3099,12 +2839,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "NE N-CE",
   "LOCALIDADE" : "NATAL",
   "ORC BLFIXO" : 0.950498338870432,
-  "ORC OCUPACAO" : 0.4899237473,
   "ORC BL" : 91,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -3113,12 +2850,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "NE N-CE",
   "LOCALIDADE" : "PARNAMIRIM",
   "ORC BLFIXO" : 0.950498338870432,
-  "ORC OCUPACAO" : 0.6158088235,
   "ORC BL" : 10,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -3127,12 +2861,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "SE/CTO",
   "LOCALIDADE" : "ANAPOLIS",
   "ORC BLFIXO" : 1.0,
-  "ORC OCUPACAO" : 0.3746212121,
   "ORC BL" : 61,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -3141,12 +2872,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "SE/CTO",
   "LOCALIDADE" : "APARECIDA DE GOIANIA",
   "ORC BLFIXO" : 1.0,
-  "ORC OCUPACAO" : 1.0,
   "ORC BL" : 0,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -3155,12 +2883,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "SE/CTO",
   "LOCALIDADE" : "DISTRITO DA PALESTINA",
   "ORC BLFIXO" : 1.0,
-  "ORC OCUPACAO" : 0.0,
   "ORC BL" : 1,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -3169,12 +2894,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "SE/CTO",
   "LOCALIDADE" : "GOIANIA",
   "ORC BLFIXO" : 1.0,
-  "ORC OCUPACAO" : 0.5010213809,
   "ORC BL" : 135,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -3183,12 +2905,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "SUL",
   "LOCALIDADE" : "BENTO GONCALVES",
   "ORC BLFIXO" : 0.9627340823970038,
-  "ORC OCUPACAO" : 0.21875,
   "ORC BL" : 20,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -3197,12 +2916,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "SUL",
   "LOCALIDADE" : "CACHOEIRINHA",
   "ORC BLFIXO" : 0.9627340823970038,
-  "ORC OCUPACAO" : 0.0,
   "ORC BL" : 0,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -3211,12 +2927,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "SUL",
   "LOCALIDADE" : "CANOAS",
   "ORC BLFIXO" : 0.9627340823970038,
-  "ORC OCUPACAO" : 0.5683453237,
   "ORC BL" : 12,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -3225,12 +2938,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "SUL",
   "LOCALIDADE" : "CAXIAS DO SUL",
   "ORC BLFIXO" : 0.9627340823970038,
-  "ORC OCUPACAO" : 0.4845070423,
   "ORC BL" : 56,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -3239,12 +2949,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "SUL",
   "LOCALIDADE" : "ESTEIO",
   "ORC BLFIXO" : 0.9627340823970038,
-  "ORC OCUPACAO" : 0.5654648956,
   "ORC BL" : 9,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -3253,12 +2960,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "SUL",
   "LOCALIDADE" : "FARROUPILHA",
   "ORC BLFIXO" : 0.9627340823970038,
-  "ORC OCUPACAO" : 0.2881944444,
   "ORC BL" : 16,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -3267,12 +2971,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "SUL",
   "LOCALIDADE" : "GRAVATAI",
   "ORC BLFIXO" : 0.9627340823970038,
-  "ORC OCUPACAO" : 0.6870653686,
   "ORC BL" : 9,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -3281,12 +2982,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "SUL",
   "LOCALIDADE" : "NOVO HAMBURGO",
   "ORC BLFIXO" : 0.9627340823970038,
-  "ORC OCUPACAO" : 0.4095394737,
   "ORC BL" : 28,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -3295,12 +2993,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "SUL",
   "LOCALIDADE" : "PORTO ALEGRE",
   "ORC BLFIXO" : 0.9627340823970038,
-  "ORC OCUPACAO" : 0.4737840401,
   "ORC BL" : 149,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -3309,12 +3004,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "SUL",
   "LOCALIDADE" : "SAO LEOPOLDO",
   "ORC BLFIXO" : 0.9627340823970038,
-  "ORC OCUPACAO" : 0.2928571429,
   "ORC BL" : 30,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -3323,12 +3015,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "NE N-CE",
   "LOCALIDADE" : "ABREU E LIMA",
   "ORC BLFIXO" : 0.9060975610198096,
-  "ORC OCUPACAO" : 0.262254902,
   "ORC BL" : 13,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -3337,12 +3026,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "NE N-CE",
   "LOCALIDADE" : "AMPARO",
   "ORC BLFIXO" : 0.9060975610198096,
-  "ORC OCUPACAO" : 0.0,
   "ORC BL" : 0,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -3351,12 +3037,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "NE N-CE",
   "LOCALIDADE" : "CABO DE SANTO AGOSTINHO",
   "ORC BLFIXO" : 0.9060975610198096,
-  "ORC OCUPACAO" : 0.1570680628,
   "ORC BL" : 7,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -3365,12 +3048,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "NE N-CE",
   "LOCALIDADE" : "CAMARAGIBE",
   "ORC BLFIXO" : 0.9060975610198096,
-  "ORC OCUPACAO" : 0.4,
   "ORC BL" : 4,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -3379,12 +3059,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "NE N-CE",
   "LOCALIDADE" : "CARPINA",
   "ORC BLFIXO" : 0.9060975610198096,
-  "ORC OCUPACAO" : 0.125,
   "ORC BL" : 0,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -3393,12 +3070,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "NE N-CE",
   "LOCALIDADE" : "CARUARU",
   "ORC BLFIXO" : 0.9060975610198096,
-  "ORC OCUPACAO" : 0.4166666667,
   "ORC BL" : 1,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -3407,12 +3081,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "NE N-CE",
   "LOCALIDADE" : "GARANHUNS",
   "ORC BLFIXO" : 0.9060975610198096,
-  "ORC OCUPACAO" : 0.1875,
   "ORC BL" : 1,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -3421,12 +3092,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "NE N-CE",
   "LOCALIDADE" : "IPOJUCA",
   "ORC BLFIXO" : 0.9060975610198096,
-  "ORC OCUPACAO" : 0.7083333333,
   "ORC BL" : 0,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -3435,12 +3103,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "NE N-CE",
   "LOCALIDADE" : "JABOATAO DOS GUARARAPES",
   "ORC BLFIXO" : 0.9060975610198096,
-  "ORC OCUPACAO" : 0.33984375,
   "ORC BL" : 29,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -3449,12 +3114,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "NE N-CE",
   "LOCALIDADE" : "JOAO PESSOA",
   "ORC BLFIXO" : 0.9060975610198096,
-  "ORC OCUPACAO" : 0.6134259259,
   "ORC BL" : 36,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -3463,12 +3125,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "NE N-CE",
   "LOCALIDADE" : "OLINDA",
   "ORC BLFIXO" : 0.9060975610198096,
-  "ORC OCUPACAO" : 0.1987704918,
   "ORC BL" : 17,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -3477,12 +3136,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "NE N-CE",
   "LOCALIDADE" : "PAULISTA",
   "ORC BLFIXO" : 0.9060975610198096,
-  "ORC OCUPACAO" : 0.0,
   "ORC BL" : 0,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -3491,12 +3147,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "NE N-CE",
   "LOCALIDADE" : "RECIFE",
   "ORC BLFIXO" : 0.9060975610198096,
-  "ORC OCUPACAO" : 0.3151724138,
   "ORC BL" : 171,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -3505,12 +3158,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "NE N-CE",
   "LOCALIDADE" : "VITORIA DE SANTO ANTAO",
   "ORC BLFIXO" : 0.9060975610198096,
-  "ORC OCUPACAO" : 1.0,
   "ORC BL" : 0,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -3519,12 +3169,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "SP INT",
   "LOCALIDADE" : "AMERICO BRASILIENSE",
   "ORC BLFIXO" : 1.0000000000000002,
-  "ORC OCUPACAO" : 0.0,
   "ORC BL" : 0,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -3533,12 +3180,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "SP INT",
   "LOCALIDADE" : "ARARAQUARA",
   "ORC BLFIXO" : 1.0000000000000002,
-  "ORC OCUPACAO" : 0.4696969697,
   "ORC BL" : 46,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -3547,12 +3191,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "SP INT",
   "LOCALIDADE" : "BARRETOS",
   "ORC BLFIXO" : 1.0000000000000002,
-  "ORC OCUPACAO" : 0.5669205658,
   "ORC BL" : 16,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -3561,12 +3202,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "SP INT",
   "LOCALIDADE" : "JABOTICABAL",
   "ORC BLFIXO" : 1.0000000000000002,
-  "ORC OCUPACAO" : 0.1215277778,
   "ORC BL" : 21,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -3575,12 +3213,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "SP INT",
   "LOCALIDADE" : "JAU",
   "ORC BLFIXO" : 1.0000000000000002,
-  "ORC OCUPACAO" : 0.0506756757,
   "ORC BL" : 46,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -3589,12 +3224,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "SP INT",
   "LOCALIDADE" : "MATAO",
   "ORC BLFIXO" : 1.0000000000000002,
-  "ORC OCUPACAO" : 0.5362903226,
   "ORC BL" : 5,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -3603,12 +3235,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "SP INT",
   "LOCALIDADE" : "RIBEIRAO PRETO",
   "ORC BLFIXO" : 1.0000000000000002,
-  "ORC OCUPACAO" : 0.7166064982,
   "ORC BL" : 64,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -3617,12 +3246,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "SP INT",
   "LOCALIDADE" : "SAO CARLOS",
   "ORC BLFIXO" : 1.0000000000000002,
-  "ORC OCUPACAO" : 0.2725225225,
   "ORC BL" : 53,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -3631,12 +3257,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "SP INT",
   "LOCALIDADE" : "SAO JOSE DO RIO PRETO",
   "ORC BLFIXO" : 1.0000000000000002,
-  "ORC OCUPACAO" : 0.648505406,
   "ORC BL" : 68,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -3645,12 +3268,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "SP INT",
   "LOCALIDADE" : "SERTAOZINHO",
   "ORC BLFIXO" : 1.0000000000000002,
-  "ORC OCUPACAO" : 0.1338235294,
   "ORC BL" : 24,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -3659,12 +3279,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "NE SUL",
   "LOCALIDADE" : "ARACAJU",
   "ORC BLFIXO" : 1.0,
-  "ORC OCUPACAO" : 0.4058823529,
   "ORC BL" : 65,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -3673,12 +3290,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "NE SUL",
   "LOCALIDADE" : "FEIRA DE SANTANA",
   "ORC BLFIXO" : 1.0,
-  "ORC OCUPACAO" : 0.1942307692,
   "ORC BL" : 101,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -3687,12 +3301,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "NE SUL",
   "LOCALIDADE" : "LAURO DE FREITAS",
   "ORC BLFIXO" : 1.0,
-  "ORC OCUPACAO" : 0.278750952,
   "ORC BL" : 38,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -3701,12 +3312,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "NE SUL",
   "LOCALIDADE" : "MACEIO",
   "ORC BLFIXO" : 1.0,
-  "ORC OCUPACAO" : 0.4562518048,
   "ORC BL" : 75,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -3715,12 +3323,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "NE SUL",
   "LOCALIDADE" : "SALVADOR",
   "ORC BLFIXO" : 1.0,
-  "ORC OCUPACAO" : 0.3504601227,
   "ORC BL" : 68,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -3729,12 +3334,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "SP METRO",
   "LOCALIDADE" : "BARUERI",
   "ORC BLFIXO" : 1.0,
-  "ORC OCUPACAO" : 0.5152439024,
   "ORC BL" : 21,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -3743,12 +3345,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "SP METRO",
   "LOCALIDADE" : "CUBATAO",
   "ORC BLFIXO" : 1.0,
-  "ORC OCUPACAO" : 0.7276785714,
   "ORC BL" : 2,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -3757,12 +3356,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "SP METRO",
   "LOCALIDADE" : "GUARULHOS",
   "ORC BLFIXO" : 1.0,
-  "ORC OCUPACAO" : 0.340469099,
   "ORC BL" : 95,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -3771,12 +3367,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "SP METRO",
   "LOCALIDADE" : "JACAREI",
   "ORC BLFIXO" : 1.0,
-  "ORC OCUPACAO" : 0.2022653722,
   "ORC BL" : 53,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -3785,12 +3378,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "SP METRO",
   "LOCALIDADE" : "MOGI DAS CRUZES",
   "ORC BLFIXO" : 1.0,
-  "ORC OCUPACAO" : 0.2011010363,
   "ORC BL" : 66,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -3799,12 +3389,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "SP METRO",
   "LOCALIDADE" : "OSASCO",
   "ORC BLFIXO" : 1.0,
-  "ORC OCUPACAO" : 0.3232638889,
   "ORC BL" : 52,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -3813,12 +3400,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "SP METRO",
   "LOCALIDADE" : "SANTOS",
   "ORC BLFIXO" : 1.0,
-  "ORC OCUPACAO" : 0.1101916376,
   "ORC BL" : 109,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -3827,12 +3411,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "SP METRO",
   "LOCALIDADE" : "SAO JOSE DOS CAMPOS",
   "ORC BLFIXO" : 1.0,
-  "ORC OCUPACAO" : 0.1789473684,
   "ORC BL" : 50,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -3841,12 +3422,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "SP METRO",
   "LOCALIDADE" : "SAO PAULO",
   "ORC BLFIXO" : 1.0,
-  "ORC OCUPACAO" : 0.2074314157,
   "ORC BL" : 183,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -3855,12 +3433,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "SE/CTO",
   "LOCALIDADE" : "CARIACICA",
   "ORC BLFIXO" : 1.0,
-  "ORC OCUPACAO" : 0.4175347222,
   "ORC BL" : 29,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -3869,12 +3444,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "SE/CTO",
   "LOCALIDADE" : "SERRA",
   "ORC BLFIXO" : 1.0,
-  "ORC OCUPACAO" : 0.4277597403,
   "ORC BL" : 31,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -3883,12 +3455,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "SE/CTO",
   "LOCALIDADE" : "VILA VELHA",
   "ORC BLFIXO" : 1.0,
-  "ORC OCUPACAO" : 0.4847074468,
   "ORC BL" : 34,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -3897,12 +3466,9 @@ var dadosPlanning = [ {
   "GERENCIA" : "SE/CTO",
   "LOCALIDADE" : "VITORIA",
   "ORC BLFIXO" : 1.0,
-  "ORC OCUPACAO" : 0.4834821429,
   "ORC BL" : 50,
   "ORC NPS" : 0.4,
   "ORC D+2" : 0.9,
-  "ORC CHURN" : 0.02032235086189999,
-  "ORC RECEITA CHURN" : 245028.1015427684,
   "ORC DIGITAL" : 0.21
 }, {
   "DATA" : "2021-01-01T00:00",
@@ -7297,73 +6863,97 @@ var dadosPlanning = [ {
   "MES" : "JAN/21",
   "REGIONAL" : "BHE",
   "GERENCIA" : "SE/CTO",
-  "CHURN" : 0.004865949204289853
+  "CHURN" : 0.004865949204289853,
+  "ORC CHURN" : 32532.56253532091,
+  "ORC RECEITA CHURN" : 1670843.6146600523
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
   "REGIONAL" : "GNA",
   "GERENCIA" : "SE/CTO",
-  "CHURN" : 0.001967331801463162
+  "CHURN" : 0.001967331801463162,
+  "ORC CHURN" : 19695.052868957133,
+  "ORC RECEITA CHURN" : 1184784.6822136967
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
   "REGIONAL" : "BSA",
   "GERENCIA" : "SE/CTO",
-  "CHURN" : 0.002355852537507339
+  "CHURN" : 0.002355852537507339,
+  "ORC CHURN" : 5977.520271918942,
+  "ORC RECEITA CHURN" : 441275.5740935131
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
   "REGIONAL" : "VTA",
   "GERENCIA" : "SE/CTO",
-  "CHURN" : 0.002112134125542699
+  "CHURN" : 0.002112134125542699,
+  "ORC CHURN" : 7429.491536159922,
+  "ORC RECEITA CHURN" : 509892.056846916
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
   "REGIONAL" : "PAE",
   "GERENCIA" : "SUL",
-  "CHURN" : 0.004077329725308702
+  "CHURN" : 0.004077329725308702,
+  "ORC CHURN" : 22767.465298443407,
+  "ORC RECEITA CHURN" : 1376849.8505466755
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
   "REGIONAL" : "BCU",
   "GERENCIA" : "SUL",
-  "CHURN" : 0.002656811786071084
+  "CHURN" : 0.002656811786071084,
+  "ORC CHURN" : 38858.532198570116,
+  "ORC RECEITA CHURN" : 2329915.86403184
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
   "REGIONAL" : "RPO",
   "GERENCIA" : "SP INT",
-  "CHURN" : 0.0041204773723195216
+  "CHURN" : 0.0041204773723195216,
+  "ORC CHURN" : 35732.87865857032,
+  "ORC RECEITA CHURN" : 1907192.589967519
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
   "REGIONAL" : "CPS",
   "GERENCIA" : "SP INT",
-  "CHURN" : 0.008160676784746043
+  "CHURN" : 0.008160676784746043,
+  "ORC CHURN" : 38976.138483885516,
+  "ORC RECEITA CHURN" : 2282293.641274587
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
   "REGIONAL" : "SPO",
   "GERENCIA" : "SP METRO",
-  "CHURN" : 0.0028481541753026004
+  "CHURN" : 0.0028481541753026004,
+  "ORC CHURN" : 38949.7852843486,
+  "ORC RECEITA CHURN" : 1896119.293728947
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
   "REGIONAL" : "FLA",
   "GERENCIA" : "NE N-CE",
-  "CHURN" : 0.001562200162036903
+  "CHURN" : 0.001562200162036903,
+  "ORC CHURN" : 18090.699544744013,
+  "ORC RECEITA CHURN" : 1067410.6726691623
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
   "REGIONAL" : "RCE",
   "GERENCIA" : "NE N-CE",
-  "CHURN" : 0.003156910878246943
+  "CHURN" : 0.003156910878246943,
+  "ORC CHURN" : 12607.962089705776,
+  "ORC RECEITA CHURN" : 960931.538455913
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
   "REGIONAL" : "SDR",
   "GERENCIA" : "NE SUL",
-  "CHURN" : 0.0007645802595430669
+  "CHURN" : 0.0007645802595430669,
+  "ORC CHURN" : 7121.476895331637,
+  "ORC RECEITA CHURN" : 454297.1717896758
 }, {
   "DATA" : "2020-12-01T00:00",
   "MES" : "DEZ/20",
@@ -7652,4 +7242,4 @@ var dadosPlanning = [ {
   "ORC DIGITAL" : 0.21,
   "APP LOGIN" : 0.11764705882352941,
   "ORC APP" : 0.3
-} ];
+} ]
