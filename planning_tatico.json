@@ -13105,7 +13105,7 @@ var dadosPlanning = [ {
   "MES" : "FEV/21",
   "REGIONAL" : "SDR",
   "GERENCIA" : "NE SUL",
-  "D+2" : 0.9
+  "D+2" : 0.92
 }, {
   "DATA" : "2021-02-01T00:00",
   "MES" : "FEV/21",
@@ -13117,13 +13117,13 @@ var dadosPlanning = [ {
   "MES" : "FEV/21",
   "REGIONAL" : "BHE",
   "GERENCIA" : "SE/CTO",
-  "D+2" : 0.94
+  "D+2" : 0.93
 }, {
   "DATA" : "2021-02-01T00:00",
   "MES" : "FEV/21",
   "REGIONAL" : "BSA",
   "GERENCIA" : "SE/CTO",
-  "D+2" : 0.9
+  "D+2" : 0.91
 }, {
   "DATA" : "2021-02-01T00:00",
   "MES" : "FEV/21",
@@ -13141,7 +13141,7 @@ var dadosPlanning = [ {
   "MES" : "FEV/21",
   "REGIONAL" : "SDR",
   "GERENCIA" : "NE SUL",
-  "D+2" : 0.97
+  "D+2" : 0.98
 }, {
   "DATA" : "2021-02-01T00:00",
   "MES" : "FEV/21",
@@ -13153,25 +13153,25 @@ var dadosPlanning = [ {
   "MES" : "FEV/21",
   "REGIONAL" : "RCE",
   "GERENCIA" : "NE N-CE",
-  "D+2" : 0.94
+  "D+2" : 0.95
 }, {
   "DATA" : "2021-02-01T00:00",
   "MES" : "FEV/21",
   "REGIONAL" : "SDR",
   "GERENCIA" : "NE SUL",
-  "D+2" : 0.96
+  "D+2" : 0.97
 }, {
   "DATA" : "2021-02-01T00:00",
   "MES" : "FEV/21",
   "REGIONAL" : "FLA",
   "GERENCIA" : "NE N-CE",
-  "D+2" : 0.93
+  "D+2" : 0.95
 }, {
   "DATA" : "2021-02-01T00:00",
   "MES" : "FEV/21",
   "REGIONAL" : "PAE",
   "GERENCIA" : "SUL",
-  "D+2" : 0.93
+  "D+2" : 0.94
 }, {
   "DATA" : "2021-02-01T00:00",
   "MES" : "FEV/21",
@@ -13183,13 +13183,13 @@ var dadosPlanning = [ {
   "MES" : "FEV/21",
   "REGIONAL" : "RPO",
   "GERENCIA" : "SP INT",
-  "D+2" : 0.91
+  "D+2" : 0.9
 }, {
   "DATA" : "2021-02-01T00:00",
   "MES" : "FEV/21",
   "REGIONAL" : "SDR",
   "GERENCIA" : "NE SUL",
-  "D+2" : 0.87
+  "D+2" : 0.88
 }, {
   "DATA" : "2021-02-01T00:00",
   "MES" : "FEV/21",
@@ -13201,13 +13201,13 @@ var dadosPlanning = [ {
   "MES" : "FEV/21",
   "REGIONAL" : "RPO",
   "GERENCIA" : "SP INT",
-  "D+2" : 0.98
+  "D+2" : 0.97
 }, {
   "DATA" : "2021-02-01T00:00",
   "MES" : "FEV/21",
   "REGIONAL" : "VTA",
   "GERENCIA" : "SE/CTO",
-  "D+2" : 0.95
+  "D+2" : 0.96
 }, {
   "DATA" : "2021-01-01T00:00",
   "MES" : "JAN/21",
