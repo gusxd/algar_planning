@@ -9996,7 +9996,7 @@ var dadosPlanning = [ {
   "ANEXO" : 73,
   "ANEXO TOTAL" : 94,
   "ORC ANEXO" : 1,
-  "QDE BL" : 37,
+  "QDE BL" : 75,
   "CPF" : 5674.289999999989,
   "CNPJ" : 8699.839999999993,
   "TOTAL CPF CNPJ" : 14374.129999999983
@@ -10025,7 +10025,7 @@ var dadosPlanning = [ {
   "ANEXO" : 101,
   "ANEXO TOTAL" : 105,
   "ORC ANEXO" : 1,
-  "QDE BL" : 52,
+  "QDE BL" : 95,
   "CPF" : 10439.509999999991,
   "CNPJ" : 4524.729999999999,
   "TOTAL CPF CNPJ" : 14964.23999999999
@@ -10054,7 +10054,7 @@ var dadosPlanning = [ {
   "ANEXO" : 71,
   "ANEXO TOTAL" : 98,
   "ORC ANEXO" : 1,
-  "QDE BL" : 16,
+  "QDE BL" : 24,
   "CPF" : 5505.839999999998,
   "CNPJ" : 4732.1200000000035,
   "TOTAL CPF CNPJ" : 10237.960000000003
@@ -10083,7 +10083,7 @@ var dadosPlanning = [ {
   "ANEXO" : 23,
   "ANEXO TOTAL" : 33,
   "ORC ANEXO" : 1,
-  "QDE BL" : 9,
+  "QDE BL" : 27,
   "CPF" : 1380.4399999999994,
   "CNPJ" : 3194.3700000000013,
   "TOTAL CPF CNPJ" : 4574.81
@@ -10112,7 +10112,7 @@ var dadosPlanning = [ {
   "ANEXO" : 278,
   "ANEXO TOTAL" : 284,
   "ORC ANEXO" : 1,
-  "QDE BL" : 94,
+  "QDE BL" : 175,
   "CPF" : 19208.49000000005,
   "CNPJ" : 11036.880000000001,
   "TOTAL CPF CNPJ" : 30245.37000000005
@@ -10141,7 +10141,7 @@ var dadosPlanning = [ {
   "ANEXO" : 412,
   "ANEXO TOTAL" : 413,
   "ORC ANEXO" : 1,
-  "QDE BL" : 49,
+  "QDE BL" : 127,
   "CPF" : 11813.470000000001,
   "CNPJ" : 26486.960000000083,
   "TOTAL CPF CNPJ" : 38300.43000000008
@@ -10170,7 +10170,7 @@ var dadosPlanning = [ {
   "ANEXO" : 88,
   "ANEXO TOTAL" : 111,
   "ORC ANEXO" : 1,
-  "QDE BL" : 51,
+  "QDE BL" : 74,
   "CPF" : 6706.819999999985,
   "CNPJ" : 6105.159999999991,
   "TOTAL CPF CNPJ" : 12811.979999999976
@@ -10199,7 +10199,7 @@ var dadosPlanning = [ {
   "ANEXO" : 293,
   "ANEXO TOTAL" : 311,
   "ORC ANEXO" : 1,
-  "QDE BL" : 144,
+  "QDE BL" : 287,
   "CPF" : 35026.740000000325,
   "CNPJ" : 17782.04999999999,
   "TOTAL CPF CNPJ" : 52808.790000000314
@@ -10228,7 +10228,7 @@ var dadosPlanning = [ {
   "ANEXO" : 235,
   "ANEXO TOTAL" : 252,
   "ORC ANEXO" : 1,
-  "QDE BL" : 115,
+  "QDE BL" : 183,
   "CPF" : 17852.45000000002,
   "CNPJ" : 15660.109999999988,
   "TOTAL CPF CNPJ" : 33512.560000000005
@@ -10257,7 +10257,7 @@ var dadosPlanning = [ {
   "ANEXO" : 106,
   "ANEXO TOTAL" : 122,
   "ORC ANEXO" : 1,
-  "QDE BL" : 61,
+  "QDE BL" : 117,
   "CPF" : 9950.919999999986,
   "CNPJ" : 6164.5299999999925,
   "TOTAL CPF CNPJ" : 16115.449999999979
@@ -10286,7 +10286,7 @@ var dadosPlanning = [ {
   "ANEXO" : 145,
   "ANEXO TOTAL" : 151,
   "ORC ANEXO" : 1,
-  "QDE BL" : 75,
+  "QDE BL" : 140,
   "CPF" : 11453.119999999994,
   "CNPJ" : 10764.759999999987,
   "TOTAL CPF CNPJ" : 22217.879999999983
@@ -10315,7 +10315,7 @@ var dadosPlanning = [ {
   "ANEXO" : 116,
   "ANEXO TOTAL" : 121,
   "ORC ANEXO" : 1,
-  "QDE BL" : 66,
+  "QDE BL" : 117,
   "CPF" : 9652.09999999999,
   "CNPJ" : 6903.809999999988,
   "TOTAL CPF CNPJ" : 16555.909999999978
@@ -26148,19 +26148,19 @@ var dadosPlanning = [ {
   "MES" : "MAR/21",
   "REGIONAL" : "SDR",
   "GERENCIA" : "NE SUL",
-  "D+2" : 0.69
+  "D+2" : 0.8
 }, {
   "DATA" : "2021-03-01T00:00",
   "MES" : "MAR/21",
   "REGIONAL" : "BCU",
   "GERENCIA" : "SUL",
-  "D+2" : 0.95
+  "D+2" : 0.94
 }, {
   "DATA" : "2021-03-01T00:00",
   "MES" : "MAR/21",
   "REGIONAL" : "BHE",
   "GERENCIA" : "SE/CTO",
-  "D+2" : 0.74
+  "D+2" : 0.77
 }, {
   "DATA" : "2021-03-01T00:00",
   "MES" : "MAR/21",
@@ -26178,37 +26178,37 @@ var dadosPlanning = [ {
   "MES" : "MAR/21",
   "REGIONAL" : "FLA",
   "GERENCIA" : "NE N-CE",
-  "D+2" : 1.0
+  "D+2" : 0.98
 }, {
   "DATA" : "2021-03-01T00:00",
   "MES" : "MAR/21",
   "REGIONAL" : "SDR",
   "GERENCIA" : "NE SUL",
-  "D+2" : 0.75
+  "D+2" : 0.77
 }, {
   "DATA" : "2021-03-01T00:00",
   "MES" : "MAR/21",
   "REGIONAL" : "GNA",
   "GERENCIA" : "SE/CTO",
-  "D+2" : 0.78
+  "D+2" : 0.87
 }, {
   "DATA" : "2021-03-01T00:00",
   "MES" : "MAR/21",
   "REGIONAL" : "RCE",
   "GERENCIA" : "NE N-CE",
-  "D+2" : 0.81
+  "D+2" : 0.9
 }, {
   "DATA" : "2021-03-01T00:00",
   "MES" : "MAR/21",
   "REGIONAL" : "SDR",
   "GERENCIA" : "NE SUL",
-  "D+2" : 0.88
+  "D+2" : 0.9
 }, {
   "DATA" : "2021-03-01T00:00",
   "MES" : "MAR/21",
   "REGIONAL" : "FLA",
   "GERENCIA" : "NE N-CE",
-  "D+2" : 0.91
+  "D+2" : 0.95
 }, {
   "DATA" : "2021-03-01T00:00",
   "MES" : "MAR/21",
@@ -26220,37 +26220,37 @@ var dadosPlanning = [ {
   "MES" : "MAR/21",
   "REGIONAL" : "RCE",
   "GERENCIA" : "NE N-CE",
-  "D+2" : 0.98
+  "D+2" : 0.97
 }, {
   "DATA" : "2021-03-01T00:00",
   "MES" : "MAR/21",
   "REGIONAL" : "RPO",
   "GERENCIA" : "SP INT",
-  "D+2" : 0.82
+  "D+2" : 0.9
 }, {
   "DATA" : "2021-03-01T00:00",
   "MES" : "MAR/21",
   "REGIONAL" : "SDR",
   "GERENCIA" : "NE SUL",
-  "D+2" : 0.94
+  "D+2" : 0.92
 }, {
   "DATA" : "2021-03-01T00:00",
   "MES" : "MAR/21",
   "REGIONAL" : "SPO",
   "GERENCIA" : "SP METRO",
-  "D+2" : 0.85
+  "D+2" : 0.88
 }, {
   "DATA" : "2021-03-01T00:00",
   "MES" : "MAR/21",
   "REGIONAL" : "RPO",
   "GERENCIA" : "SP INT",
-  "D+2" : 1.0
+  "D+2" : 0.97
 }, {
   "DATA" : "2021-03-01T00:00",
   "MES" : "MAR/21",
   "REGIONAL" : "VTA",
   "GERENCIA" : "SE/CTO",
-  "D+2" : 1.0
+  "D+2" : 0.98
 }, {
   "DATA" : "2021-02-01T00:00",
   "MES" : "FEV/21",
